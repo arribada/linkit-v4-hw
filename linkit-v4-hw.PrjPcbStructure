@@ -1,10 +1,9 @@
 Record=TopLevelDocument|FileName=Project_Overview.SchDoc|SheetNumber=1
 Record=SheetSymbol|SourceDocument=Project_Overview.SchDoc|Designator=U_linkit-v4|SchDesignator=U_linkit-v4|FileName=linkit-v4.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=linkit-v4.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=linkit-v4.SchDoc|Designator=power|SchDesignator=power|FileName=pwr.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=pwr.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=linkit-v4.SchDoc|Designator=U_mcu|SchDesignator=U_mcu|FileName=mcu.SchDoc|SheetNumber=6|SymbolType=Normal|RawFileName=mcu.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=pwr.SchDoc|Designator=U_BQ51003YFPT_WirelessCharger_2.5W|SchDesignator=U_BQ51003YFPT_WirelessCharger_2.5W|FileName=BQ51003YFPT_WirelessCharger_2.5W.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=BQ51003YFPT_WirelessCharger_2.5W|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=pwr.SchDoc|Designator=U_TPS63901_BuckBoost_lowIq_3V3_400mA|SchDesignator=U_TPS63901_BuckBoost_lowIq_3V3_400mA|FileName=TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc|SheetNumber= |SymbolType=Device Sheet|RawFileName=TPS63901_BuckBoost_lowIq_3V3_400mA|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
-Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=mcu.SchDoc|SheetNumber=6
-Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=satellite.SchDoc|SheetNumber=8
+Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=sat-kim2.SchDoc|SheetNumber=8
 Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=sensors.SchDoc|SheetNumber=7
-Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=simu2.SchDoc|SheetNumber=9
-Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=simu.SchDoc|SheetNumber=10
+Record=NoMainPathDocument|SourceDocument=Project_Overview.SchDoc|FileName=TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc|SheetNumber= 
