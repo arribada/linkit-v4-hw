@@ -202,6 +202,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BNURWQFY
 
+[Document10]
+DocumentPath=interface.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=YBLRMTDV
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
 DItemRevisionGUID=
@@ -235,6 +252,27 @@ GenerateClassCluster=0
 
 [DeviceSheet2]
 DocumentPath=..\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+GenerateClassCluster=0
+
+[DeviceSheet3]
+DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+GenerateClassCluster=0
+
+[DeviceSheet4]
+DocumentPath=..\hardware-lib\DeviceSheets\SENSORS\BMA400_ACC_LinkitV3.SchDoc
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+GenerateClassCluster=0
+
+[DeviceSheet5]
+DocumentPath=..\hardware-lib\DeviceSheets\GPS\SAM-M10Q.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
