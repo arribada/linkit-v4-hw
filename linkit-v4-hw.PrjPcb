@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -21,8 +21,8 @@ UserID=0xFFFFFFFF
 DefaultPcbProtel=1
 DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
-NameNetsHierarchically=0
-PowerPortNamesTakePriority=0
+NameNetsHierarchically=1
+PowerPortNamesTakePriority=1
 AutoSheetNumbering=1
 AutoCrossReferences=1
 NewIndexingOfSheetSymbols=1
@@ -44,6 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
+CurrentVariant=linkit-v4-hw-kim
 
 [Preferences]
 PrefsVaultGUID=
@@ -94,8 +95,8 @@ AnnotateOrder=2
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=TYHXIZBY
@@ -112,7 +113,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CATAERHI
@@ -129,7 +130,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UAURBSAB
@@ -145,8 +146,8 @@ AnnotateOrder=5
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BKDREMRZ
@@ -180,7 +181,7 @@ DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
+ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=YBLRMTDV
@@ -202,6 +203,82 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document10]
+DocumentPath=linkit-v4-hw.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document11]
+DocumentPath=satellite.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=7
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=Local Nets Only
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MJYPWCES
+
+[Document12]
+DocumentPath=sat-smd.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=Local Nets Only
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=BLNKDCII
+
+[ProjectVariant1]
+UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
+Description=linkit-v4-hw-kim
+AllowFabrication=0
+ParameterCount=0
+VariationCount=1
+Variation1=Designator=C37|UniqueId=\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueId=78850176-ee6c-4913-9997-c81d60d85ebb
+Description=linkit-v4-hw-SMD
+AllowFabrication=0
+ParameterCount=0
+VariationCount=8
+Variation1=Designator=C37|UniqueId=\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
+Variation2=Designator=C38|UniqueId=\JWKDITJY\DEPHAWEM\BUCPAZDW|Kind=1|AlternatePart=
+Variation3=Designator=C39|UniqueId=\JWKDITJY\DEPHAWEM\UPNMYLNA|Kind=1|AlternatePart=
+Variation4=Designator=C40|UniqueId=\JWKDITJY\DEPHAWEM\KJNNBQTF|Kind=1|AlternatePart=
+Variation5=Designator=C41|UniqueId=\JWKDITJY\DEPHAWEM\RETOLMYY|Kind=1|AlternatePart=
+Variation6=Designator=C42|UniqueId=\JWKDITJY\DEPHAWEM\OBXKOFLH|Kind=1|AlternatePart=
+Variation7=Designator=L2|UniqueId=\JWKDITJY\DEPHAWEM\VSLQHBBL|Kind=1|AlternatePart=
+Variation8=Designator=R36|UniqueId=\JWKDITJY\DEPHAWEM\YPYPCFEP|Kind=1|AlternatePart=
+ParamVariationCount=0
+
 [GeneratedDocument1]
 DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
 DItemRevisionGUID=
@@ -211,20 +288,20 @@ DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Board_Assembly_Revision
-Value=0
+Name=Board_Reference
+Value=linkit-v4
 
 [Parameter2]
-Name=Board_Name
-Value=Linkit Kim/SMD
-
-[Parameter3]
 Name=Board_PCB_Revision
 Value=1
 
+[Parameter3]
+Name=Board_Name
+Value=Linkit Kim/SMD
+
 [Parameter4]
-Name=Board_Reference
-Value=linkit-v4
+Name=Board_Assembly_Revision
+Value=0
 
 [DeviceSheet1]
 DocumentPath=..\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
@@ -234,28 +311,28 @@ ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet2]
-DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-GenerateClassCluster=0
-
-[DeviceSheet3]
 DocumentPath=..\hardware-lib\DeviceSheets\SENSORS\BMA400_ACC_LinkitV3.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
-[DeviceSheet4]
+[DeviceSheet3]
 DocumentPath=..\hardware-lib\DeviceSheets\GPS\SAM-M10Q.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
-[DeviceSheet5]
+[DeviceSheet4]
 DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+GenerateClassCluster=0
+
+[DeviceSheet5]
+DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
@@ -383,6 +460,45 @@ ProfileId0=YWCWOFYL
 ProfileName0=Mixed Sim Configuration
 OutputType0=AdvSimNetlist
 ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0=|SP_Impedance0_UserValue=|SP_Impedance0=50|SP_Port1=|SP_Impedance1_UserValue=|SP_Impedance1=50|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=1
+
+[Generic_SmartPDF]
+AutoOpenFile=-1
+AutoOpenOutJob=-1
+
+[Generic_SmartPDFSettings]
+ProjectMode=-1
+ZoomPrecision=50
+AddNetsInformation=-1
+AddNetPins=-1
+AddNetNetLabels=-1
+AddNetPorts=-1
+ShowComponentParameters=-1
+GlobalBookmarks=0
+ExportBOM=-1
+TemplateFilename=BOM_Template_Single_Supplier_Arribada.xlsx
+TemplateStoreRelative=-1
+PCB_PrintColor=1
+SCH_PrintColor=0
+PrintQuality=-3
+SCH_ShowNoErc=-1
+SCH_ShowParameter=-1
+SCH_ShowProbes=-1
+SCH_ShowBlankets=-1
+SCH_NoERCSymbolsToShow="Thin Cross","Thick Cross","Small Cross",Checkbox,Triangle
+SCH_ShowNote=-1
+SCH_ShowNoteCollapsed=-1
+Wir_PrintColor=0
+Ldr_PrintColor=0
+Esd_PrintColor=0
+SCH_ExpandLogicalToPhysical=0
+SCH_VariantName=[No Variations]
+SCH_ExpandComponentDesignators=-1
+SCH_ExpandNetlabels=0
+SCH_ExpandPorts=0
+SCH_ExpandSheetNumber=0
+SCH_ExpandDocumentNumber=0
+SCH_HasExpandLogicalToPhysicalSheets=-1
+SaveSettingsToOutJob=-1
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1405,44 +1521,60 @@ Order7=10
 IndexEnabled7=0
 IndexStartValue7=1
 Suffix7=
-UniqueIDPath8=\BDKYNOJZ\NJLSVWXI
+UniqueIDPath8=\BDKYNOJZ\VNAPLJUM\JWKDITJY
 DocumentName8=sat-kim2.SchDoc
 IsEnabled8=1
 SelectionScope8=All
-Order8=5
+Order8=12
 IndexEnabled8=0
 IndexStartValue8=1
 Suffix8=
-UniqueIDPath9=\BDKYNOJZ\FXFHETPW
-DocumentName9=sensors.SchDoc
+UniqueIDPath9=\BDKYNOJZ\VNAPLJUM\POJLUZWN
+DocumentName9=sat-smd.SchDoc
 IsEnabled9=1
 SelectionScope9=All
-Order9=4
+Order9=13
 IndexEnabled9=0
 IndexStartValue9=1
 Suffix9=
-UniqueIDPath10=\BDKYNOJZ\OXHHQPKW\PBSCAAZB
-DocumentName10=TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
+UniqueIDPath10=\BDKYNOJZ\VNAPLJUM
+DocumentName10=satellite.SchDoc
 IsEnabled10=1
 SelectionScope10=All
-Order10=11
+Order10=14
 IndexEnabled10=0
 IndexStartValue10=1
 Suffix10=
-UniqueIDPath11=\BDKYNOJZ\NJLSVWXI\DEPHAWEM
-DocumentName11=TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
+UniqueIDPath11=\BDKYNOJZ\FXFHETPW
+DocumentName11=sensors.SchDoc
 IsEnabled11=1
 SelectionScope11=All
-Order11=8
+Order11=4
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
+UniqueIDPath12=\BDKYNOJZ\OXHHQPKW\PBSCAAZB
+DocumentName12=TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
+IsEnabled12=1
+SelectionScope12=All
+Order12=11
+IndexEnabled12=0
+IndexStartValue12=1
+Suffix12=
+UniqueIDPath13=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM
+DocumentName13=TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
+IsEnabled13=1
+SelectionScope13=All
+Order13=15
+IndexEnabled13=0
+IndexStartValue13=1
+Suffix13=
 
 [PrjClassGen]
 CompClassManualEnabled=0
 CompClassManualRoomEnabled=0
 NetClassAutoBusEnabled=1
-NetClassAutoCompEnabled=0
+NetClassAutoCompEnabled=1
 NetClassAutoNamedHarnessEnabled=0
 NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
