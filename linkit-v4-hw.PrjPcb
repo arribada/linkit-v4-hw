@@ -259,25 +259,153 @@ UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
 AllowFabrication=0
 ParameterCount=0
-VariationCount=1
-Variation1=Designator=C37|UniqueId=\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
-ParamVariationCount=0
+VariationCount=26
+Variation1=Designator=C43|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\MWLTXFQM|Kind=1|AlternatePart=
+Variation2=Designator=C44|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\VYOVIHHC|Kind=1|AlternatePart=
+Variation3=Designator=C45|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\GEAZHYRH|Kind=1|AlternatePart=
+Variation4=Designator=C46|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\OPBZPPZI|Kind=1|AlternatePart=
+Variation5=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
+Variation6=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
+Variation7=Designator=C48|UniqueId=\BDKYNOJZ\VNAPLJUM\FBERIEAS|Kind=1|AlternatePart=
+Variation8=Designator=L4|UniqueId=\BDKYNOJZ\VNAPLJUM\CINSVSJT|Kind=1|AlternatePart=
+Variation9=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=2|AlternatePart=RCC06030000Z0EA|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RCC06030000Z0EA|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Arrow Part Number|VariantValue=
+ParamDesignator1=L3
+ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=
+ParamDesignator2=L3
+ParamVariation3=ParameterName=Comment|VariantValue=RCC06030000Z0EA
+ParamDesignator3=L3
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=L3
+ParamVariation5=ParameterName=Datasheet Link|VariantValue=https://www.vishay.com/docs/20066/rcce3.pdf
+ParamDesignator5=L3
+ParamVariation6=ParameterName=Description|VariantValue=Thick Film Resistors - SMD Zero ohm Jumper
+ParamDesignator6=L3
+ParamVariation7=ParameterName=Footprint|VariantValue=
+ParamDesignator7=L3
+ParamVariation8=ParameterName=Height|VariantValue=0.5mm
+ParamDesignator8=L3
+ParamVariation9=ParameterName=Ibis Model|VariantValue=
+ParamDesignator9=L3
+ParamVariation10=ParameterName=Library Reference|VariantValue=RCC06030000Z0EA
+ParamDesignator10=L3
+ParamVariation11=ParameterName=Manufacturer_Name|VariantValue=Vishay
+ParamDesignator11=L3
+ParamVariation12=ParameterName=Manufacturer_Part_Number|VariantValue=RCC06030000Z0EA
+ParamDesignator12=L3
+ParamVariation13=ParameterName=Mouser Part Number|VariantValue=71-RCC06030000Z0EA
+ParamDesignator13=L3
+ParamVariation14=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC06030000Z0EA/?qs=GedFDFLaBXGafTcDIEa6hQ%3D%3D
+ParamDesignator14=L3
+ParamVariation15=ParameterName=PCB3D|VariantValue=
+ParamDesignator15=L3
+ParamVariation16=ParameterName=Pin Info|VariantValue=
+ParamDesignator16=L3
+ParamVariation17=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator17=L3
+ParamVariation18=ParameterName=Simulation|VariantValue=
+ParamDesignator18=L3
+ParamVariation19=ParameterName=Value|VariantValue=0R
+ParamDesignator19=L3
+Variation10=Designator=U13|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\HVSDNENI|Kind=1|AlternatePart=
+Variation11=Designator=R27|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
+Variation12=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
+Variation13=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
+Variation14=Designator=O12|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\AMOSFSGJ|Kind=1|AlternatePart=
+Variation15=Designator=U12|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\UTRQCSSS|Kind=1|AlternatePart=
+Variation16=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation17=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation18=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
+Variation19=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation20=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
+Variation21=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
+Variation22=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
+Variation23=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
+Variation24=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
+Variation25=Designator=R23|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
+Variation26=Designator=R50|UniqueId=\BDKYNOJZ\VNAPLJUM\TOADURXH|Kind=1|AlternatePart=
+ParamVariationCount=19
 
 [ProjectVariant2]
 UniqueId=78850176-ee6c-4913-9997-c81d60d85ebb
 Description=linkit-v4-hw-SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=8
-Variation1=Designator=C37|UniqueId=\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
-Variation2=Designator=C38|UniqueId=\JWKDITJY\DEPHAWEM\BUCPAZDW|Kind=1|AlternatePart=
-Variation3=Designator=C39|UniqueId=\JWKDITJY\DEPHAWEM\UPNMYLNA|Kind=1|AlternatePart=
-Variation4=Designator=C40|UniqueId=\JWKDITJY\DEPHAWEM\KJNNBQTF|Kind=1|AlternatePart=
-Variation5=Designator=C41|UniqueId=\JWKDITJY\DEPHAWEM\RETOLMYY|Kind=1|AlternatePart=
-Variation6=Designator=C42|UniqueId=\JWKDITJY\DEPHAWEM\OBXKOFLH|Kind=1|AlternatePart=
-Variation7=Designator=L2|UniqueId=\JWKDITJY\DEPHAWEM\VSLQHBBL|Kind=1|AlternatePart=
-Variation8=Designator=R36|UniqueId=\JWKDITJY\DEPHAWEM\YPYPCFEP|Kind=1|AlternatePart=
-ParamVariationCount=0
+VariationCount=33
+Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
+Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
+Variation3=Designator=C48|UniqueId=\BDKYNOJZ\VNAPLJUM\FBERIEAS|Kind=1|AlternatePart=
+Variation4=Designator=L4|UniqueId=\BDKYNOJZ\VNAPLJUM\CINSVSJT|Kind=2|AlternatePart=RCC06030000Z0EA|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RCC06030000Z0EA|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
+ParamVariation1=ParameterName=Arrow Part Number|VariantValue=
+ParamDesignator1=L4
+ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=
+ParamDesignator2=L4
+ParamVariation3=ParameterName=Comment|VariantValue=RCC06030000Z0EA
+ParamDesignator3=L4
+ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator4=L4
+ParamVariation5=ParameterName=Datasheet Link|VariantValue=https://www.vishay.com/docs/20066/rcce3.pdf
+ParamDesignator5=L4
+ParamVariation6=ParameterName=Description|VariantValue=Thick Film Resistors - SMD Zero ohm Jumper
+ParamDesignator6=L4
+ParamVariation7=ParameterName=Footprint|VariantValue=
+ParamDesignator7=L4
+ParamVariation8=ParameterName=Height|VariantValue=0.5mm
+ParamDesignator8=L4
+ParamVariation9=ParameterName=Ibis Model|VariantValue=
+ParamDesignator9=L4
+ParamVariation10=ParameterName=Library Reference|VariantValue=RCC06030000Z0EA
+ParamDesignator10=L4
+ParamVariation11=ParameterName=Manufacturer_Name|VariantValue=Vishay
+ParamDesignator11=L4
+ParamVariation12=ParameterName=Manufacturer_Part_Number|VariantValue=RCC06030000Z0EA
+ParamDesignator12=L4
+ParamVariation13=ParameterName=Mouser Part Number|VariantValue=71-RCC06030000Z0EA
+ParamDesignator13=L4
+ParamVariation14=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC06030000Z0EA/?qs=GedFDFLaBXGafTcDIEa6hQ%3D%3D
+ParamDesignator14=L4
+ParamVariation15=ParameterName=PCB3D|VariantValue=
+ParamDesignator15=L4
+ParamVariation16=ParameterName=Pin Info|VariantValue=
+ParamDesignator16=L4
+ParamVariation17=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator17=L4
+ParamVariation18=ParameterName=Simulation|VariantValue=
+ParamDesignator18=L4
+ParamVariation19=ParameterName=Value|VariantValue=0R
+ParamDesignator19=L4
+Variation5=Designator=O10|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\LVKWYNXT|Kind=1|AlternatePart=
+Variation6=Designator=R48|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\QRKEHTTD|Kind=1|AlternatePart=
+Variation7=Designator=U11|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\MGNRXMIO|Kind=1|AlternatePart==VAL
+ParamVariation20=ParameterName=Comment|VariantValue==VAL
+ParamDesignator20=U11
+Variation8=Designator=O11|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DPLGSOCK|Kind=1|AlternatePart=
+Variation9=Designator=V4|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\LJMCJXLP|Kind=1|AlternatePart=
+Variation10=Designator=V6|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\ZRXDBZBS|Kind=1|AlternatePart=
+Variation11=Designator=V5|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\KAAEJNTN|Kind=1|AlternatePart=
+Variation12=Designator=C53|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\KJNNBQTF|Kind=1|AlternatePart=
+Variation13=Designator=R27|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
+Variation14=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
+Variation15=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=1|AlternatePart=
+Variation16=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
+Variation17=Designator=C51|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\BUCPAZDW|Kind=1|AlternatePart=
+Variation18=Designator=C52|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\UPNMYLNA|Kind=1|AlternatePart=
+Variation19=Designator=C54|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\RETOLMYY|Kind=1|AlternatePart=
+Variation20=Designator=C55|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\OBXKOFLH|Kind=1|AlternatePart=
+Variation21=Designator=L5|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\VSLQHBBL|Kind=1|AlternatePart=
+Variation22=Designator=R49|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\YPYPCFEP|Kind=1|AlternatePart=
+Variation23=Designator=U14|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\SIIZGHAJ|Kind=1|AlternatePart=
+Variation24=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation25=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation26=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
+Variation27=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation28=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
+Variation29=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
+Variation30=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
+Variation31=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
+Variation32=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
+Variation33=Designator=R23|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
+ParamVariationCount=20
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
@@ -288,20 +416,20 @@ DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Board_Reference
-Value=linkit-v4
+Name=Board_Assembly_Revision
+Value=0
 
 [Parameter2]
-Name=Board_PCB_Revision
-Value=1
-
-[Parameter3]
 Name=Board_Name
 Value=Linkit Kim/SMD
 
+[Parameter3]
+Name=Board_PCB_Revision
+Value=1
+
 [Parameter4]
-Name=Board_Assembly_Revision
-Value=0
+Name=Board_Reference
+Value=linkit-v4
 
 [DeviceSheet1]
 DocumentPath=..\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
