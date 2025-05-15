@@ -112,7 +112,7 @@ AnnotateOrder=3
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=Local Nets Only
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -129,7 +129,7 @@ AnnotateOrder=4
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
+ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=All Nets
 DItemRevisionGUID=
 GenerateClassCluster=0
@@ -254,6 +254,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BLNKDCII
 
+[Document13]
+DocumentPath=linkit-v4-0.1.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGPHGOFN
+
 [ProjectVariant1]
 UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
@@ -269,11 +286,11 @@ Variation6=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternateP
 Variation7=Designator=C48|UniqueId=\BDKYNOJZ\VNAPLJUM\FBERIEAS|Kind=1|AlternatePart=
 Variation8=Designator=L4|UniqueId=\BDKYNOJZ\VNAPLJUM\CINSVSJT|Kind=1|AlternatePart=
 Variation9=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=2|AlternatePart=RCC06030000Z0EA|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RCC06030000Z0EA|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Arrow Part Number|VariantValue=
+ParamVariation1=ParameterName=Comment|VariantValue=RCC06030000Z0EA
 ParamDesignator1=L3
-ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=
+ParamVariation2=ParameterName=Arrow Part Number|VariantValue=
 ParamDesignator2=L3
-ParamVariation3=ParameterName=Comment|VariantValue=RCC06030000Z0EA
+ParamVariation3=ParameterName=Arrow Price/Stock|VariantValue=
 ParamDesignator3=L3
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=L3
@@ -336,11 +353,11 @@ Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternateP
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 Variation3=Designator=C48|UniqueId=\BDKYNOJZ\VNAPLJUM\FBERIEAS|Kind=1|AlternatePart=
 Variation4=Designator=L4|UniqueId=\BDKYNOJZ\VNAPLJUM\CINSVSJT|Kind=2|AlternatePart=RCC06030000Z0EA|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RCC06030000Z0EA|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Arrow Part Number|VariantValue=
+ParamVariation1=ParameterName=Comment|VariantValue=RCC06030000Z0EA
 ParamDesignator1=L4
-ParamVariation2=ParameterName=Arrow Price/Stock|VariantValue=
+ParamVariation2=ParameterName=Arrow Part Number|VariantValue=
 ParamDesignator2=L4
-ParamVariation3=ParameterName=Comment|VariantValue=RCC06030000Z0EA
+ParamVariation3=ParameterName=Arrow Price/Stock|VariantValue=
 ParamDesignator3=L4
 ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator4=L4
@@ -416,20 +433,20 @@ DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Board_Assembly_Revision
-Value=0
+Name=Board_Reference
+Value=linkit-v4
 
 [Parameter2]
-Name=Board_Name
-Value=Linkit Kim/SMD
-
-[Parameter3]
 Name=Board_PCB_Revision
 Value=1
 
+[Parameter3]
+Name=Board_Name
+Value=Linkit Kim/SMD
+
 [Parameter4]
-Name=Board_Reference
-Value=linkit-v4
+Name=Board_Assembly_Revision
+Value=0
 
 [DeviceSheet1]
 DocumentPath=..\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
@@ -1708,10 +1725,112 @@ NetClassManualEnabled=1
 NetClassSeparateForBusSections=0
 
 [LibraryUpdateOptions]
-SelectedOnly=0
+SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=stm32wl-dev.SchLib
+ComponentDesignItemID0=BQ51003YFPT
+ComponentSymbolReference0=BQ51003YFPT
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
+ComponentLibIdentifierKind1=Library Name And Type
+ComponentLibraryIdentifier1=stm32wl-dev.SchLib
+ComponentDesignItemID1=CRCW0201196RFKED
+ComponentSymbolReference1=CRCW0201196RFKED
+ComponentUpdate1=1
+ComponentIsDeviceSheet1=0
+ComponentLibIdentifierKind2=Library Name And Type
+ComponentLibraryIdentifier2=stm32wl-dev.SchLib
+ComponentDesignItemID2=CRCW020120K0FKED
+ComponentSymbolReference2=CRCW020120K0FKED
+ComponentUpdate2=1
+ComponentIsDeviceSheet2=0
+ComponentLibIdentifierKind3=Library Name And Type
+ComponentLibraryIdentifier3=stm32wl-dev.SchLib
+ComponentDesignItemID3=CRCW0201453RFKED
+ComponentSymbolReference3=CRCW0201453RFKED
+ComponentUpdate3=1
+ComponentIsDeviceSheet3=0
+ComponentLibIdentifierKind4=Library Name And Type
+ComponentLibraryIdentifier4=stm32wl-dev.SchLib
+ComponentDesignItemID4=CRCW04020000Z0EEHP
+ComponentSymbolReference4=CRCW04020000Z0EEHP
+ComponentUpdate4=1
+ComponentIsDeviceSheet4=0
+ComponentLibIdentifierKind5=Library Name And Type
+ComponentLibraryIdentifier5=stm32wl-dev.SchLib
+ComponentDesignItemID5=CSD75208W1015
+ComponentSymbolReference5=CSD75208W1015
+ComponentUpdate5=1
+ComponentIsDeviceSheet5=0
+ComponentLibIdentifierKind6=Library Name And Type
+ComponentLibraryIdentifier6=stm32wl-dev.SchLib
+ComponentDesignItemID6=EMK107BBJ106MA-T
+ComponentSymbolReference6=EMK107BBJ106MA-T
+ComponentUpdate6=1
+ComponentIsDeviceSheet6=0
+ComponentLibIdentifierKind7=Library Name And Type
+ComponentLibraryIdentifier7=stm32wl-dev.SchLib
+ComponentDesignItemID7=GRM033R71E271KA01D
+ComponentSymbolReference7=GRM033R71E271KA01D
+ComponentUpdate7=1
+ComponentIsDeviceSheet7=0
+ComponentLibIdentifierKind8=Library Name And Type
+ComponentLibraryIdentifier8=stm32wl-dev.SchLib
+ComponentDesignItemID8=GRM155R71C104KA88D
+ComponentSymbolReference8=GRM155R71C104KA88D
+ComponentUpdate8=1
+ComponentIsDeviceSheet8=0
+ComponentLibIdentifierKind9=Library Name And Type
+ComponentLibraryIdentifier9=stm32wl-dev.SchLib
+ComponentDesignItemID9=GRM155R71E103KA01D
+ComponentSymbolReference9=GRM155R71E103KA01D
+ComponentUpdate9=1
+ComponentIsDeviceSheet9=0
+ComponentLibIdentifierKind10=Library Name And Type
+ComponentLibraryIdentifier10=stm32wl-dev.SchLib
+ComponentDesignItemID10=GRM155R71E223KA61D
+ComponentSymbolReference10=GRM155R71E223KA61D
+ComponentUpdate10=1
+ComponentIsDeviceSheet10=0
+ComponentLibIdentifierKind11=Library Name And Type
+ComponentLibraryIdentifier11=stm32wl-dev.SchLib
+ComponentDesignItemID11=GRM155R71H681KA01D
+ComponentSymbolReference11=GRM155R71H681KA01D
+ComponentUpdate11=1
+ComponentIsDeviceSheet11=0
+ComponentLibIdentifierKind12=Library Name And Type
+ComponentLibraryIdentifier12=stm32wl-dev.SchLib
+ComponentDesignItemID12=GRM155R71H683ME14D
+ComponentSymbolReference12=GRM155R71H683ME14D
+ComponentUpdate12=1
+ComponentIsDeviceSheet12=0
+ComponentLibIdentifierKind13=Library Name And Type
+ComponentLibraryIdentifier13=stm32wl-dev.SchLib
+ComponentDesignItemID13=GRM188R61C475KE11J
+ComponentSymbolReference13=GRM188R61C475KE11J
+ComponentUpdate13=1
+ComponentIsDeviceSheet13=0
+ComponentLibIdentifierKind14=Library Name And Type
+ComponentLibraryIdentifier14=stm32wl-dev.SchLib
+ComponentDesignItemID14=GRM188R71E474KA12D
+ComponentSymbolReference14=GRM188R71E474KA12D
+ComponentUpdate14=1
+ComponentIsDeviceSheet14=0
+ComponentLibIdentifierKind15=Library Name And Type
+ComponentLibraryIdentifier15=stm32wl-dev.SchLib
+ComponentDesignItemID15=GRM188R71H103KA01D
+ComponentSymbolReference15=GRM188R71H103KA01D
+ComponentUpdate15=1
+ComponentIsDeviceSheet15=0
+ComponentLibIdentifierKind16=Library Name And Type
+ComponentLibraryIdentifier16=stm32wl-dev.SchLib
+ComponentDesignItemID16=RC0201FR-7D10KL
+ComponentSymbolReference16=RC0201FR-7D10KL
+ComponentUpdate16=1
+ComponentIsDeviceSheet16=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1725,6 +1844,177 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Arrow Part Number
+ParameterUpdate0=1
+ParameterName1=Arrow Price/Stock
+ParameterUpdate1=1
+ParameterName2=Capacitance
+ParameterUpdate2=1
+ParameterName3=Case Code (Imperial)
+ParameterUpdate3=1
+ParameterName4=Case Code (Metric)
+ParameterUpdate4=1
+ParameterName5=Case/Package
+ParameterUpdate5=1
+ParameterName6=Category 1
+ParameterUpdate6=1
+ParameterName7=Comment
+ParameterUpdate7=1
+ParameterName8=Component Kind
+ParameterUpdate8=1
+ParameterName9=ComponentLink1Description
+ParameterUpdate9=1
+ParameterName10=ComponentLink1URL
+ParameterUpdate10=1
+ParameterName11=ComponentLink2Description
+ParameterUpdate11=1
+ParameterName12=ComponentLink2URL
+ParameterUpdate12=1
+ParameterName13=ComponentLink3Description
+ParameterUpdate13=1
+ParameterName14=ComponentLink3URL
+ParameterUpdate14=1
+ParameterName15=ComponentLink4Description
+ParameterUpdate15=1
+ParameterName16=ComponentLink4URL
+ParameterUpdate16=1
+ParameterName17=ComponentLink5Description
+ParameterUpdate17=1
+ParameterName18=ComponentLink5URL
+ParameterUpdate18=1
+ParameterName19=ComponentLink6Description
+ParameterUpdate19=1
+ParameterName20=ComponentLink6URL
+ParameterUpdate20=1
+ParameterName21=ComponentLink7Description
+ParameterUpdate21=1
+ParameterName22=ComponentLink7URL
+ParameterUpdate22=1
+ParameterName23=ComponentLink8Description
+ParameterUpdate23=1
+ParameterName24=ComponentLink8URL
+ParameterUpdate24=1
+ParameterName25=Datasheet Link
+ParameterUpdate25=1
+ParameterName26=Depth
+ParameterUpdate26=1
+ParameterName27=Description
+ParameterUpdate27=1
+ParameterName28=Description 1
+ParameterUpdate28=1
+ParameterName29=Dielectric
+ParameterUpdate29=1
+ParameterName30=Dielectric Material
+ParameterUpdate30=1
+ParameterName31=Height
+ParameterUpdate31=1
+ParameterName32=Lead Free
+ParameterUpdate32=1
+ParameterName33=Length
+ParameterUpdate33=1
+ParameterName34=Library Reference
+ParameterUpdate34=1
+ParameterName35=Manufacturer
+ParameterUpdate35=1
+ParameterName36=Manufacturer 1
+ParameterUpdate36=1
+ParameterName37=Manufacturer Part Number 1
+ParameterUpdate37=1
+ParameterName38=Manufacturer_Name
+ParameterUpdate38=1
+ParameterName39=Manufacturer_Part_Number
+ParameterUpdate39=1
+ParameterName40=Material
+ParameterUpdate40=1
+ParameterName41=Max Operating Temperature
+ParameterUpdate41=1
+ParameterName42=Min Operating Temperature
+ParameterUpdate42=1
+ParameterName43=Mount
+ParameterUpdate43=1
+ParameterName44=Mouser Part Number
+ParameterUpdate44=1
+ParameterName45=Mouser Price/Stock
+ParameterUpdate45=1
+ParameterName46=Number of Pins
+ParameterUpdate46=1
+ParameterName47=Package
+ParameterUpdate47=1
+ParameterName48=Package Quantity
+ParameterUpdate48=1
+ParameterName49=Packaging
+ParameterUpdate49=1
+ParameterName50=Pricing 1
+ParameterUpdate50=1
+ParameterName51=Radiation Hardening
+ParameterUpdate51=1
+ParameterName52=Reach SVHC Compliant
+ParameterUpdate52=1
+ParameterName53=Revision
+ParameterUpdate53=1
+ParameterName54=RoHS 1
+ParameterUpdate54=1
+ParameterName55=RoHS Compliant
+ParameterUpdate55=1
+ParameterName56=Series
+ParameterUpdate56=1
+ParameterName57=Stock 1
+ParameterUpdate57=1
+ParameterName58=Supplier 1
+ParameterUpdate58=1
+ParameterName59=Supplier Part Number 1
+ParameterUpdate59=1
+ParameterName60=Termination
+ParameterUpdate60=1
+ParameterName61=Thickness
+ParameterUpdate61=1
+ParameterName62=Tolerance
+ParameterUpdate62=1
+ParameterName63=Value
+ParameterUpdate63=1
+ParameterName64=Voltage
+ParameterUpdate64=1
+ParameterName65=Voltage Rating
+ParameterUpdate65=1
+ParameterName66=Voltage Rating (DC)
+ParameterUpdate66=1
+ParameterName67=Width
+ParameterUpdate67=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=0402
+ModelUpdate0=1
+ModelType1=PCBLIB
+ModelName1=BGA28C40P4X7_188X301X50
+ModelUpdate1=1
+ModelType2=PCBLIB
+ModelName2=BGA6C50P2X3_95X145X62
+ModelUpdate2=1
+ModelType3=PCBLIB
+ModelName3=CAPC1005X55N
+ModelUpdate3=1
+ModelType4=PCBLIB
+ModelName4=CAPC1005X70N
+ModelUpdate4=1
+ModelType5=PCBLIB
+ModelName5=CAPC1608X90N
+ModelUpdate5=1
+ModelType6=PCBLIB
+ModelName6=GRM033D70J224ME01D
+ModelUpdate6=1
+ModelType7=PCBLIB
+ModelName7=GRM15x
+ModelUpdate7=1
+ModelType8=PCBLIB
+ModelName8=GRM18x
+ModelUpdate8=1
+ModelType9=PCBLIB
+ModelName9=RESC0603X26N
+ModelUpdate9=1
+ModelType10=PCBLIB
+ModelName10=RESC1005X40N
+ModelUpdate10=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
