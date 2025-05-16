@@ -271,6 +271,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGPHGOFN
 
+[Document14]
+DocumentPath=linkit-v4-hw.BomDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [ProjectVariant1]
 UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
@@ -325,10 +342,10 @@ ParamDesignator18=L3
 ParamVariation19=ParameterName=Value|VariantValue=0R
 ParamDesignator19=L3
 Variation10=Designator=U13|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\HVSDNENI|Kind=1|AlternatePart=
-Variation11=Designator=R27|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
+Variation11=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
 Variation12=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
 Variation13=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
-Variation14=Designator=O12|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\AMOSFSGJ|Kind=1|AlternatePart=
+Variation14=Designator=O13|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\AMOSFSGJ|Kind=1|AlternatePart=
 Variation15=Designator=U12|UniqueId=\BDKYNOJZ\VNAPLJUM\POJLUZWN\UTRQCSSS|Kind=1|AlternatePart=
 Variation16=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
 Variation17=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
@@ -338,9 +355,9 @@ Variation20=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|
 Variation21=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
 Variation22=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
 Variation23=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
-Variation24=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
-Variation25=Designator=R23|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
-Variation26=Designator=R50|UniqueId=\BDKYNOJZ\VNAPLJUM\TOADURXH|Kind=1|AlternatePart=
+Variation24=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
+Variation25=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
+Variation26=Designator=R49|UniqueId=\BDKYNOJZ\VNAPLJUM\TOADURXH|Kind=1|AlternatePart=
 ParamVariationCount=19
 
 [ProjectVariant2]
@@ -391,17 +408,17 @@ ParamVariation18=ParameterName=Simulation|VariantValue=
 ParamDesignator18=L4
 ParamVariation19=ParameterName=Value|VariantValue=0R
 ParamDesignator19=L4
-Variation5=Designator=O10|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\LVKWYNXT|Kind=1|AlternatePart=
+Variation5=Designator=O11|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\LVKWYNXT|Kind=1|AlternatePart=
 Variation6=Designator=R48|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\QRKEHTTD|Kind=1|AlternatePart=
 Variation7=Designator=U11|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\MGNRXMIO|Kind=1|AlternatePart==VAL
 ParamVariation20=ParameterName=Comment|VariantValue==VAL
 ParamDesignator20=U11
-Variation8=Designator=O11|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DPLGSOCK|Kind=1|AlternatePart=
+Variation8=Designator=O12|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DPLGSOCK|Kind=1|AlternatePart=
 Variation9=Designator=V4|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\LJMCJXLP|Kind=1|AlternatePart=
 Variation10=Designator=V6|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\ZRXDBZBS|Kind=1|AlternatePart=
 Variation11=Designator=V5|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\KAAEJNTN|Kind=1|AlternatePart=
 Variation12=Designator=C53|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\KJNNBQTF|Kind=1|AlternatePart=
-Variation13=Designator=R27|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
+Variation13=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
 Variation14=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
 Variation15=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=1|AlternatePart=
 Variation16=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
@@ -410,7 +427,7 @@ Variation18=Designator=C52|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\UPNMYLN
 Variation19=Designator=C54|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\RETOLMYY|Kind=1|AlternatePart=
 Variation20=Designator=C55|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\OBXKOFLH|Kind=1|AlternatePart=
 Variation21=Designator=L5|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\VSLQHBBL|Kind=1|AlternatePart=
-Variation22=Designator=R49|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\YPYPCFEP|Kind=1|AlternatePart=
+Variation22=Designator=R50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\YPYPCFEP|Kind=1|AlternatePart=
 Variation23=Designator=U14|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\SIIZGHAJ|Kind=1|AlternatePart=
 Variation24=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
 Variation25=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
@@ -420,8 +437,8 @@ Variation28=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|
 Variation29=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
 Variation30=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
 Variation31=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
-Variation32=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
-Variation33=Designator=R23|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
+Variation32=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
+Variation33=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
 ParamVariationCount=20
 
 [GeneratedDocument1]
@@ -470,14 +487,14 @@ ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet4]
-DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
+DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet5]
-DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS612997YBHR_3.6V_lowIQ_1.9A.SchDoc
+DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3&2V3_400mA.SchDoc
 ClassGenCCAutoEnabled=1
 ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
@@ -985,6 +1002,18 @@ OutputDocumentPath1=
 OutputVariantName1=[No Variations]
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+Configuration1_Name1=ColumnNameFormat
+Configuration1_Item1=CaptionAsName
+Configuration1_Name2=ForceUpdateSettings
+Configuration1_Item2=False
+Configuration1_Name3=General
+Configuration1_Item3=OpenExported=False|AddToProject=False|ReportBOMViolationsInMessages=False|ForceFit=False|NotFitted=False|Database=False|DatabasePriority=False|IncludePcbData=False|IncludeVaultData=False|IncludeCloudData=False|IncludeDocumentData=True|IncludeAlternatives=False|ShowExportOptions=True|TemplateFilename=|TemplateVaultGuid=|TemplateItemGuid=|TemplateRevisionGuid=|BatchMode=5|FormWidth=1200|FormHeight=710|SupplierProdQty=1|SupplierAutoQty=False|SupplierUseCachedPricing=False|SupplierCurrency=USD|SolutionsPerItem=1|SuppliersPerSolution=1|ViewType=0|BomSetName=
+Configuration1_Name4=GroupOrder
+Configuration1_Item4=Comment=True|Footprint=True
+Configuration1_Name5=SortOrder
+Configuration1_Item5=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Name6=VisibleOrder
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
 OutputType2=BOM_ReportCompare
 OutputName2=BOM Compare
 OutputDocumentPath2=
@@ -1410,7 +1439,7 @@ Type81=1
 Type82=1
 
 [Electrical Rules Check]
-Type1=1
+Type1=0
 Type2=1
 Type3=2
 Type4=1
@@ -1698,11 +1727,11 @@ Order11=4
 IndexEnabled11=0
 IndexStartValue11=1
 Suffix11=
-UniqueIDPath12=\BDKYNOJZ\OXHHQPKW\PBSCAAZB
-DocumentName12=TPS63901_BuckBoost_lowIq_3V3_400mA.SchDoc
+UniqueIDPath12=\BDKYNOJZ\OXHHQPKW\CKMXFXTJ
+DocumentName12=TPS63901_BuckBoost_lowIq_3V3&2V3_400mA.SchDoc
 IsEnabled12=1
 SelectionScope12=All
-Order12=11
+Order12=16
 IndexEnabled12=0
 IndexStartValue12=1
 Suffix12=
@@ -1729,108 +1758,6 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=stm32wl-dev.SchLib
-ComponentDesignItemID0=BQ51003YFPT
-ComponentSymbolReference0=BQ51003YFPT
-ComponentUpdate0=1
-ComponentIsDeviceSheet0=0
-ComponentLibIdentifierKind1=Library Name And Type
-ComponentLibraryIdentifier1=stm32wl-dev.SchLib
-ComponentDesignItemID1=CRCW0201196RFKED
-ComponentSymbolReference1=CRCW0201196RFKED
-ComponentUpdate1=1
-ComponentIsDeviceSheet1=0
-ComponentLibIdentifierKind2=Library Name And Type
-ComponentLibraryIdentifier2=stm32wl-dev.SchLib
-ComponentDesignItemID2=CRCW020120K0FKED
-ComponentSymbolReference2=CRCW020120K0FKED
-ComponentUpdate2=1
-ComponentIsDeviceSheet2=0
-ComponentLibIdentifierKind3=Library Name And Type
-ComponentLibraryIdentifier3=stm32wl-dev.SchLib
-ComponentDesignItemID3=CRCW0201453RFKED
-ComponentSymbolReference3=CRCW0201453RFKED
-ComponentUpdate3=1
-ComponentIsDeviceSheet3=0
-ComponentLibIdentifierKind4=Library Name And Type
-ComponentLibraryIdentifier4=stm32wl-dev.SchLib
-ComponentDesignItemID4=CRCW04020000Z0EEHP
-ComponentSymbolReference4=CRCW04020000Z0EEHP
-ComponentUpdate4=1
-ComponentIsDeviceSheet4=0
-ComponentLibIdentifierKind5=Library Name And Type
-ComponentLibraryIdentifier5=stm32wl-dev.SchLib
-ComponentDesignItemID5=CSD75208W1015
-ComponentSymbolReference5=CSD75208W1015
-ComponentUpdate5=1
-ComponentIsDeviceSheet5=0
-ComponentLibIdentifierKind6=Library Name And Type
-ComponentLibraryIdentifier6=stm32wl-dev.SchLib
-ComponentDesignItemID6=EMK107BBJ106MA-T
-ComponentSymbolReference6=EMK107BBJ106MA-T
-ComponentUpdate6=1
-ComponentIsDeviceSheet6=0
-ComponentLibIdentifierKind7=Library Name And Type
-ComponentLibraryIdentifier7=stm32wl-dev.SchLib
-ComponentDesignItemID7=GRM033R71E271KA01D
-ComponentSymbolReference7=GRM033R71E271KA01D
-ComponentUpdate7=1
-ComponentIsDeviceSheet7=0
-ComponentLibIdentifierKind8=Library Name And Type
-ComponentLibraryIdentifier8=stm32wl-dev.SchLib
-ComponentDesignItemID8=GRM155R71C104KA88D
-ComponentSymbolReference8=GRM155R71C104KA88D
-ComponentUpdate8=1
-ComponentIsDeviceSheet8=0
-ComponentLibIdentifierKind9=Library Name And Type
-ComponentLibraryIdentifier9=stm32wl-dev.SchLib
-ComponentDesignItemID9=GRM155R71E103KA01D
-ComponentSymbolReference9=GRM155R71E103KA01D
-ComponentUpdate9=1
-ComponentIsDeviceSheet9=0
-ComponentLibIdentifierKind10=Library Name And Type
-ComponentLibraryIdentifier10=stm32wl-dev.SchLib
-ComponentDesignItemID10=GRM155R71E223KA61D
-ComponentSymbolReference10=GRM155R71E223KA61D
-ComponentUpdate10=1
-ComponentIsDeviceSheet10=0
-ComponentLibIdentifierKind11=Library Name And Type
-ComponentLibraryIdentifier11=stm32wl-dev.SchLib
-ComponentDesignItemID11=GRM155R71H681KA01D
-ComponentSymbolReference11=GRM155R71H681KA01D
-ComponentUpdate11=1
-ComponentIsDeviceSheet11=0
-ComponentLibIdentifierKind12=Library Name And Type
-ComponentLibraryIdentifier12=stm32wl-dev.SchLib
-ComponentDesignItemID12=GRM155R71H683ME14D
-ComponentSymbolReference12=GRM155R71H683ME14D
-ComponentUpdate12=1
-ComponentIsDeviceSheet12=0
-ComponentLibIdentifierKind13=Library Name And Type
-ComponentLibraryIdentifier13=stm32wl-dev.SchLib
-ComponentDesignItemID13=GRM188R61C475KE11J
-ComponentSymbolReference13=GRM188R61C475KE11J
-ComponentUpdate13=1
-ComponentIsDeviceSheet13=0
-ComponentLibIdentifierKind14=Library Name And Type
-ComponentLibraryIdentifier14=stm32wl-dev.SchLib
-ComponentDesignItemID14=GRM188R71E474KA12D
-ComponentSymbolReference14=GRM188R71E474KA12D
-ComponentUpdate14=1
-ComponentIsDeviceSheet14=0
-ComponentLibIdentifierKind15=Library Name And Type
-ComponentLibraryIdentifier15=stm32wl-dev.SchLib
-ComponentDesignItemID15=GRM188R71H103KA01D
-ComponentSymbolReference15=GRM188R71H103KA01D
-ComponentUpdate15=1
-ComponentIsDeviceSheet15=0
-ComponentLibIdentifierKind16=Library Name And Type
-ComponentLibraryIdentifier16=stm32wl-dev.SchLib
-ComponentDesignItemID16=RC0201FR-7D10KL
-ComponentSymbolReference16=RC0201FR-7D10KL
-ComponentUpdate16=1
-ComponentIsDeviceSheet16=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -1844,177 +1771,6 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
-ParameterName0=Arrow Part Number
-ParameterUpdate0=1
-ParameterName1=Arrow Price/Stock
-ParameterUpdate1=1
-ParameterName2=Capacitance
-ParameterUpdate2=1
-ParameterName3=Case Code (Imperial)
-ParameterUpdate3=1
-ParameterName4=Case Code (Metric)
-ParameterUpdate4=1
-ParameterName5=Case/Package
-ParameterUpdate5=1
-ParameterName6=Category 1
-ParameterUpdate6=1
-ParameterName7=Comment
-ParameterUpdate7=1
-ParameterName8=Component Kind
-ParameterUpdate8=1
-ParameterName9=ComponentLink1Description
-ParameterUpdate9=1
-ParameterName10=ComponentLink1URL
-ParameterUpdate10=1
-ParameterName11=ComponentLink2Description
-ParameterUpdate11=1
-ParameterName12=ComponentLink2URL
-ParameterUpdate12=1
-ParameterName13=ComponentLink3Description
-ParameterUpdate13=1
-ParameterName14=ComponentLink3URL
-ParameterUpdate14=1
-ParameterName15=ComponentLink4Description
-ParameterUpdate15=1
-ParameterName16=ComponentLink4URL
-ParameterUpdate16=1
-ParameterName17=ComponentLink5Description
-ParameterUpdate17=1
-ParameterName18=ComponentLink5URL
-ParameterUpdate18=1
-ParameterName19=ComponentLink6Description
-ParameterUpdate19=1
-ParameterName20=ComponentLink6URL
-ParameterUpdate20=1
-ParameterName21=ComponentLink7Description
-ParameterUpdate21=1
-ParameterName22=ComponentLink7URL
-ParameterUpdate22=1
-ParameterName23=ComponentLink8Description
-ParameterUpdate23=1
-ParameterName24=ComponentLink8URL
-ParameterUpdate24=1
-ParameterName25=Datasheet Link
-ParameterUpdate25=1
-ParameterName26=Depth
-ParameterUpdate26=1
-ParameterName27=Description
-ParameterUpdate27=1
-ParameterName28=Description 1
-ParameterUpdate28=1
-ParameterName29=Dielectric
-ParameterUpdate29=1
-ParameterName30=Dielectric Material
-ParameterUpdate30=1
-ParameterName31=Height
-ParameterUpdate31=1
-ParameterName32=Lead Free
-ParameterUpdate32=1
-ParameterName33=Length
-ParameterUpdate33=1
-ParameterName34=Library Reference
-ParameterUpdate34=1
-ParameterName35=Manufacturer
-ParameterUpdate35=1
-ParameterName36=Manufacturer 1
-ParameterUpdate36=1
-ParameterName37=Manufacturer Part Number 1
-ParameterUpdate37=1
-ParameterName38=Manufacturer_Name
-ParameterUpdate38=1
-ParameterName39=Manufacturer_Part_Number
-ParameterUpdate39=1
-ParameterName40=Material
-ParameterUpdate40=1
-ParameterName41=Max Operating Temperature
-ParameterUpdate41=1
-ParameterName42=Min Operating Temperature
-ParameterUpdate42=1
-ParameterName43=Mount
-ParameterUpdate43=1
-ParameterName44=Mouser Part Number
-ParameterUpdate44=1
-ParameterName45=Mouser Price/Stock
-ParameterUpdate45=1
-ParameterName46=Number of Pins
-ParameterUpdate46=1
-ParameterName47=Package
-ParameterUpdate47=1
-ParameterName48=Package Quantity
-ParameterUpdate48=1
-ParameterName49=Packaging
-ParameterUpdate49=1
-ParameterName50=Pricing 1
-ParameterUpdate50=1
-ParameterName51=Radiation Hardening
-ParameterUpdate51=1
-ParameterName52=Reach SVHC Compliant
-ParameterUpdate52=1
-ParameterName53=Revision
-ParameterUpdate53=1
-ParameterName54=RoHS 1
-ParameterUpdate54=1
-ParameterName55=RoHS Compliant
-ParameterUpdate55=1
-ParameterName56=Series
-ParameterUpdate56=1
-ParameterName57=Stock 1
-ParameterUpdate57=1
-ParameterName58=Supplier 1
-ParameterUpdate58=1
-ParameterName59=Supplier Part Number 1
-ParameterUpdate59=1
-ParameterName60=Termination
-ParameterUpdate60=1
-ParameterName61=Thickness
-ParameterUpdate61=1
-ParameterName62=Tolerance
-ParameterUpdate62=1
-ParameterName63=Value
-ParameterUpdate63=1
-ParameterName64=Voltage
-ParameterUpdate64=1
-ParameterName65=Voltage Rating
-ParameterUpdate65=1
-ParameterName66=Voltage Rating (DC)
-ParameterUpdate66=1
-ParameterName67=Width
-ParameterUpdate67=1
-ModelTypeGroup0=PCBLIB
-ModelTypeUpdate0=1
-ModelType0=PCBLIB
-ModelName0=0402
-ModelUpdate0=1
-ModelType1=PCBLIB
-ModelName1=BGA28C40P4X7_188X301X50
-ModelUpdate1=1
-ModelType2=PCBLIB
-ModelName2=BGA6C50P2X3_95X145X62
-ModelUpdate2=1
-ModelType3=PCBLIB
-ModelName3=CAPC1005X55N
-ModelUpdate3=1
-ModelType4=PCBLIB
-ModelName4=CAPC1005X70N
-ModelUpdate4=1
-ModelType5=PCBLIB
-ModelName5=CAPC1608X90N
-ModelUpdate5=1
-ModelType6=PCBLIB
-ModelName6=GRM033D70J224ME01D
-ModelUpdate6=1
-ModelType7=PCBLIB
-ModelName7=GRM15x
-ModelUpdate7=1
-ModelType8=PCBLIB
-ModelName8=GRM18x
-ModelUpdate8=1
-ModelType9=PCBLIB
-ModelName9=RESC0603X26N
-ModelUpdate9=1
-ModelType10=PCBLIB
-ModelName10=RESC1005X40N
-ModelUpdate10=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
