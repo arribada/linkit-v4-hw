@@ -450,20 +450,20 @@ DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
 [Parameter1]
-Name=Board_Reference
-Value=linkit-v4
+Name=Board_Assembly_Revision
+Value=0
 
 [Parameter2]
-Name=Board_PCB_Revision
-Value=1
-
-[Parameter3]
 Name=Board_Name
 Value=Linkit Kim/SMD
 
+[Parameter3]
+Name=Board_PCB_Revision
+Value=1
+
 [Parameter4]
-Name=Board_Assembly_Revision
-Value=0
+Name=Board_Reference
+Value=linkit-v4
 
 [DeviceSheet1]
 DocumentPath=..\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
