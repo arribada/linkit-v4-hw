@@ -288,6 +288,40 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[Document15]
+DocumentPath=linkit-v4-0.2_6layers.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGIHLOIN
+
+[Document16]
+DocumentPath=linkit-v4-0.1_6layers.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=AGIHLOIO
+
 [ProjectVariant1]
 UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
@@ -437,10 +471,14 @@ Variation29=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|Alternate
 ParamVariationCount=20
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
+DocumentPath=Project Outputs for linkit-v4-hw\Design Rule Check - linkit-v4-0.html
 DItemRevisionGUID=
 
 [GeneratedDocument2]
+DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument3]
 DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
