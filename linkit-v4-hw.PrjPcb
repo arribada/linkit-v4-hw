@@ -322,6 +322,23 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AGIHLOIO
 
+[Document17]
+DocumentPath=linkit-v4-0.3_6layers.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=CSGRVPHC
+
 [ProjectVariant1]
 UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
