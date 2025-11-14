@@ -38,7 +38,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=1
+CrossRefSheetStyle=2
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -261,7 +261,7 @@ AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=8
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -276,48 +276,140 @@ UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
 AllowFabrication=0
 ParameterCount=0
-VariationCount=32
+VariationCount=28
 Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
-Variation3=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=2|AlternatePart=RCC06030000Z0EA|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RCC06030000Z0EA|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Comment|VariantValue=RCC06030000Z0EA
+Variation3=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=2|AlternatePart=10nH|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=LQW18AN10NG80D|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=LQW18AN10NG80D|AltLibLink_IsSameFootprint=True
+ParamVariation1=ParameterName=Comment|VariantValue=10nH
 ParamDesignator1=L3
-ParamVariation2=ParameterName=Arrow Part Number|VariantValue=
+ParamVariation2=ParameterName=Component Kind|VariantValue=Standard
 ParamDesignator2=L3
-ParamVariation3=ParameterName=Arrow Price/Stock|VariantValue=
+ParamVariation3=ParameterName=Description|VariantValue=Inductor Wirewound , 10 nH, 52 Milliohm, ± 2%, 4.75 GHz, 1.6 A, 0603 [1608 Metric]
 ParamDesignator3=L3
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
+ParamVariation4=ParameterName=Footprint|VariantValue=LQW18AN10NG80D
 ParamDesignator4=L3
-ParamVariation5=ParameterName=Datasheet Link|VariantValue=https://www.vishay.com/docs/20066/rcce3.pdf
+ParamVariation5=ParameterName=Height|VariantValue=0.9mm
 ParamDesignator5=L3
-ParamVariation6=ParameterName=Description|VariantValue=Thick Film Resistors - SMD Zero ohm Jumper
+ParamVariation6=ParameterName=Ibis Model|VariantValue=
 ParamDesignator6=L3
-ParamVariation7=ParameterName=Footprint|VariantValue=
+ParamVariation7=ParameterName=Library Reference|VariantValue=LQW18AN10NG80D
 ParamDesignator7=L3
-ParamVariation8=ParameterName=Height|VariantValue=0.5mm
+ParamVariation8=ParameterName=PCB3D|VariantValue=
 ParamDesignator8=L3
-ParamVariation9=ParameterName=Ibis Model|VariantValue=
+ParamVariation9=ParameterName=Pin Info|VariantValue=
 ParamDesignator9=L3
-ParamVariation10=ParameterName=Library Reference|VariantValue=RCC06030000Z0EA
+ParamVariation10=ParameterName=Signal Integrity|VariantValue=
 ParamDesignator10=L3
-ParamVariation11=ParameterName=Manufacturer_Name|VariantValue=Vishay
+ParamVariation11=ParameterName=Simulation|VariantValue=
 ParamDesignator11=L3
-ParamVariation12=ParameterName=Manufacturer_Part_Number|VariantValue=RCC06030000Z0EA
+ParamVariation12=ParameterName=Value|VariantValue=10nH
 ParamDesignator12=L3
-ParamVariation13=ParameterName=Mouser Part Number|VariantValue=71-RCC06030000Z0EA
+ParamVariation13=ParameterName=Case/Package|VariantValue=0603
 ParamDesignator13=L3
-ParamVariation14=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC06030000Z0EA/?qs=GedFDFLaBXGafTcDIEa6hQ%3D%3D
+ParamVariation14=ParameterName=Case Code (Imperial)|VariantValue=0603
 ParamDesignator14=L3
-ParamVariation15=ParameterName=PCB3D|VariantValue=
+ParamVariation15=ParameterName=Case Code (Metric)|VariantValue=1608
 ParamDesignator15=L3
-ParamVariation16=ParameterName=Pin Info|VariantValue=
+ParamVariation16=ParameterName=Category 1|VariantValue=Fixed Inductors
 ParamDesignator16=L3
-ParamVariation17=ParameterName=Signal Integrity|VariantValue=
+ParamVariation17=ParameterName=ComponentLink1Description|VariantValue=http://www.mouser.com/ds/2/281/murata_inductors-1115352.pdf?src-supplier=Mouser
 ParamDesignator17=L3
-ParamVariation18=ParameterName=Simulation|VariantValue=
+ParamVariation18=ParameterName=ComponentLink1URL|VariantValue=http://www.mouser.com/ds/2/281/murata_inductors-1115352.pdf?src-supplier=Mouser
 ParamDesignator18=L3
-ParamVariation19=ParameterName=Value|VariantValue=0R
+ParamVariation19=ParameterName=ComponentLink2Description|VariantValue=https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0102.pdf?src-supplier=Digi-Key
 ParamDesignator19=L3
+ParamVariation20=ParameterName=ComponentLink2URL|VariantValue=https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0102.pdf?src-supplier=Digi-Key
+ParamDesignator20=L3
+ParamVariation21=ParameterName=ComponentLink3Description|VariantValue=http://www.murata.com/~/media/webrenewal/support/library/catalog/products/inductor/chip/o05e.ashx?src-supplier=Digi-Key
+ParamDesignator21=L3
+ParamVariation22=ParameterName=ComponentLink3URL|VariantValue=http://www.murata.com/~/media/webrenewal/support/library/catalog/products/inductor/chip/o05e.ashx?src-supplier=Digi-Key
+ParamDesignator22=L3
+ParamVariation23=ParameterName=ComponentLink4Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-142542380.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator23=L3
+ParamVariation24=ParameterName=ComponentLink4URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-142542380.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator24=L3
+ParamVariation25=ParameterName=ComponentLink5Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-141294525.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator25=L3
+ParamVariation26=ParameterName=ComponentLink5URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-141294525.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator26=L3
+ParamVariation27=ParameterName=ComponentLink6Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-140717668.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator27=L3
+ParamVariation28=ParameterName=ComponentLink6URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-140717668.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator28=L3
+ParamVariation29=ParameterName=ComponentLink7Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-138758702.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator29=L3
+ParamVariation30=ParameterName=ComponentLink7URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-138758702.pdf?src-supplier=Ciiva+Crawler
+ParamDesignator30=L3
+ParamVariation31=ParameterName=ComponentLink8Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-145452284.pdf?src-supplier=Geoflip
+ParamDesignator31=L3
+ParamVariation32=ParameterName=ComponentLink8URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-145452284.pdf?src-supplier=Geoflip
+ParamDesignator32=L3
+ParamVariation33=ParameterName=ComponentLink9Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-142046197.pdf?src-supplier=Arrow.cn
+ParamDesignator33=L3
+ParamVariation34=ParameterName=ComponentLink9URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-142046197.pdf?src-supplier=Arrow.cn
+ParamDesignator34=L3
+ParamVariation35=ParameterName=ComponentLink10Description|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-141404629.pdf?src-supplier=TME
+ParamDesignator35=L3
+ParamVariation36=ParameterName=ComponentLink10URL|VariantValue=https://datasheet.octopart.com/LQW18AN10NG80D-Murata-datasheet-141404629.pdf?src-supplier=TME
+ParamDesignator36=L3
+ParamVariation37=ParameterName=Core Material|VariantValue=Ferrite
+ParamDesignator37=L3
+ParamVariation38=ParameterName=Current Rating|VariantValue=1.6A
+ParamDesignator38=L3
+ParamVariation39=ParameterName=DC Resistance (DCR)|VariantValue=52mR
+ParamDesignator39=L3
+ParamVariation40=ParameterName=Description 1|VariantValue=Wirewound Inductor, 10 nH, 52 Milliohm, ± 2%, 4.75 GHz, 1.6 A, 0603 [1608 Metric]
+ParamDesignator40=L3
+ParamVariation41=ParameterName=Height - Seated (Max)|VariantValue=0.039inch
+ParamDesignator41=L3
+ParamVariation42=ParameterName=Inductance|VariantValue=10nH
+ParamDesignator42=L3
+ParamVariation43=ParameterName=Length|VariantValue=0.065inch
+ParamDesignator43=L3
+ParamVariation44=ParameterName=Manufacturer 1|VariantValue=Murata
+ParamDesignator44=L3
+ParamVariation45=ParameterName=Manufacturer Part Number 1|VariantValue=LQW18AN10NG80D
+ParamDesignator45=L3
+ParamVariation46=ParameterName=Max DC Current|VariantValue=1.6A
+ParamDesignator46=L3
+ParamVariation47=ParameterName=Max Operating Temperature|VariantValue=125°C
+ParamDesignator47=L3
+ParamVariation48=ParameterName=Min Operating Temperature|VariantValue=-55°C
+ParamDesignator48=L3
+ParamVariation49=ParameterName=Mount|VariantValue=Surface Mount
+ParamDesignator49=L3
+ParamVariation50=ParameterName=Package Quantity|VariantValue=4000
+ParamDesignator50=L3
+ParamVariation51=ParameterName=Packaging|VariantValue=Tape and Reel
+ParamDesignator51=L3
+ParamVariation52=ParameterName=Pricing 1|VariantValue=1=0,21, 10=0,191, 25=0,1696, 50=0,1442, 100=0,1273, 250=0,11664, 500=0,10604, 1000=0,08908 (USD)
+ParamDesignator52=L3
+ParamVariation53=ParameterName=Q Factor|VariantValue=38
+ParamDesignator53=L3
+ParamVariation54=ParameterName=RoHS Compliant|VariantValue=Yes
+ParamDesignator54=L3
+ParamVariation55=ParameterName=Self Resonant Frequency|VariantValue=4.75GHz
+ParamDesignator55=L3
+ParamVariation56=ParameterName=Series|VariantValue=LQW18
+ParamDesignator56=L3
+ParamVariation57=ParameterName=Shielding|VariantValue=Unshielded
+ParamDesignator57=L3
+ParamVariation58=ParameterName=Stock 1|VariantValue=25557
+ParamDesignator58=L3
+ParamVariation59=ParameterName=Supplier 1|VariantValue=Digi-Key
+ParamDesignator59=L3
+ParamVariation60=ParameterName=Supplier Part Number 1|VariantValue=490-17899-1-ND
+ParamDesignator60=L3
+ParamVariation61=ParameterName=Termination|VariantValue=SMD/SMT
+ParamDesignator61=L3
+ParamVariation62=ParameterName=Test Frequency|VariantValue=100MHz
+ParamDesignator62=L3
+ParamVariation63=ParameterName=Tolerance|VariantValue=2%
+ParamDesignator63=L3
+ParamVariation64=ParameterName=Weight|VariantValue=7.1E-05oz
+ParamDesignator64=L3
+ParamVariation65=ParameterName=Width|VariantValue=0.99mm
+ParamDesignator65=L3
 Variation4=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
 Variation5=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
 Variation6=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
@@ -326,28 +418,62 @@ Variation8=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|A
 Variation9=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
 Variation10=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
 Variation11=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
-Variation12=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
-Variation13=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
-Variation14=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
-Variation15=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
-Variation16=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
-Variation17=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
-Variation18=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
-Variation19=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
-Variation20=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
-Variation21=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
-Variation22=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
-Variation23=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
-Variation24=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
-Variation25=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
-Variation26=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
-Variation27=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
-Variation28=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
-Variation29=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=1|AlternatePart=
-Variation30=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
-Variation31=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
-Variation32=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
-ParamVariationCount=19
+Variation12=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation13=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
+Variation14=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
+Variation15=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation16=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation17=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
+Variation18=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
+Variation19=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
+Variation20=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
+Variation21=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
+Variation22=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
+Variation23=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
+Variation24=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
+Variation25=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
+Variation26=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
+Variation27=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
+Variation28=Designator=R8|UniqueId=\BDKYNOJZ\OXHHQPKW\QULOTVRK|Kind=2|AlternatePart=CL05A106MP5NUNC|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=CL05A106MP5NUNC|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=CAPC1005X55N|AltLibLink_IsSameFootprint=True
+ParamVariation66=ParameterName=Arrow Part Number|VariantValue=CL05A106MP5NUNC
+ParamDesignator66=R8
+ParamVariation67=ParameterName=Arrow Price/Stock|VariantValue=https://www.arrow.com/en/products/cl05a106mp5nunc/samsung-electro-mechanics?utm_currency=USD&region=europe
+ParamDesignator67=R8
+ParamVariation68=ParameterName=Comment|VariantValue=CL05A106MP5NUNC
+ParamDesignator68=R8
+ParamVariation69=ParameterName=Component Kind|VariantValue=Standard
+ParamDesignator69=R8
+ParamVariation70=ParameterName=Datasheet Link|VariantValue=http://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL_Series_MLCC_ds.pdf
+ParamDesignator70=R8
+ParamVariation71=ParameterName=Description|VariantValue=Multilayer Ceramic Capacitors MLCC - SMD/SMT 10uF+/-20% 10V X5R 1005
+ParamDesignator71=R8
+ParamVariation72=ParameterName=Footprint|VariantValue=CAPC1005X55N
+ParamDesignator72=R8
+ParamVariation73=ParameterName=Height|VariantValue=0.55mm
+ParamDesignator73=R8
+ParamVariation74=ParameterName=Ibis Model|VariantValue=
+ParamDesignator74=R8
+ParamVariation75=ParameterName=Library Reference|VariantValue=CL05A106MP5NUNC
+ParamDesignator75=R8
+ParamVariation76=ParameterName=Manufacturer_Name|VariantValue=SAMSUNG
+ParamDesignator76=R8
+ParamVariation77=ParameterName=Manufacturer_Part_Number|VariantValue=CL05A106MP5NUNC
+ParamDesignator77=R8
+ParamVariation78=ParameterName=Mouser Part Number|VariantValue=187-CL05A106MP5NUNC
+ParamDesignator78=R8
+ParamVariation79=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Samsung-Electro-Mechanics/CL05A106MP5NUNC?qs=X6jEic%2FHinA5hRYAnV6SHQ%3D%3D
+ParamDesignator79=R8
+ParamVariation80=ParameterName=PCB3D|VariantValue=
+ParamDesignator80=R8
+ParamVariation81=ParameterName=Pin Info|VariantValue=
+ParamDesignator81=R8
+ParamVariation82=ParameterName=Signal Integrity|VariantValue=
+ParamDesignator82=R8
+ParamVariation83=ParameterName=Simulation|VariantValue=
+ParamDesignator83=R8
+ParamVariation84=ParameterName=Value|VariantValue=10uF
+ParamDesignator84=R8
+ParamVariationCount=84
 
 [ProjectVariant2]
 UniqueId=78850176-ee6c-4913-9997-c81d60d85ebb
@@ -387,6 +513,15 @@ Variation29=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=1|Alternate
 Variation30=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
 Variation31=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
 Variation32=Designator=C50|UniqueId=\BDKYNOJZ\VNAPLJUM\JWKDITJY\DEPHAWEM\MXUZEASY|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueId=37fd7af9-7e93-4ab9-ab39-393c314b81ef
+Description=Variant of linkit-v4-hw
+OverwriteSchematicSymbol=0
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
 ParamVariationCount=0
 
 [GeneratedDocument1]
