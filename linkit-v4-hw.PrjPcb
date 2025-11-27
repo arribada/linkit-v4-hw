@@ -353,7 +353,7 @@ UniqueId=78850176-ee6c-4913-9997-c81d60d85ebb
 Description=linkit-v4-hw-SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=32
+VariationCount=37
 Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 Variation3=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
@@ -386,6 +386,11 @@ Variation29=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=0|Alternate
 Variation30=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
 Variation31=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
 Variation32=Designator=R?|UniqueId=\BDKYNOJZ\FXFHETPW\YGVSQTVU|Kind=1|AlternatePart=
+Variation33=Designator=C44|UniqueId=\BDKYNOJZ\OXHHQPKW\IPJBSJAX|Kind=1|AlternatePart=
+Variation34=Designator=TP14|UniqueId=\BDKYNOJZ\VNAPLJUM\DSRETVMT|Kind=1|AlternatePart=
+Variation35=Designator=TP15|UniqueId=\BDKYNOJZ\VNAPLJUM\ZHSSJYXI|Kind=1|AlternatePart=
+Variation36=Designator=TP16|UniqueId=\BDKYNOJZ\VNAPLJUM\HFSXCGOX|Kind=1|AlternatePart=
+Variation37=Designator=TP17|UniqueId=\BDKYNOJZ\VNAPLJUM\RCEUBXZM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
