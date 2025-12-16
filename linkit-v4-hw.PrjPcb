@@ -38,7 +38,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=2
+CrossRefSheetStyle=1
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -276,121 +276,74 @@ UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
 AllowFabrication=0
 ParameterCount=0
-VariationCount=31
+VariationCount=30
 Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
-Variation3=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=2|AlternatePart=RCC06030000Z0EA|AltLibLink_LibIdentifierKind=Library Full Path|AltLibLink_LibraryIdentifier=C:\Users\fourn\Altium\AD25\Projects\Arribada\hardware-lib\Libraries\stm32wl-dev.SchLib|AltLibLink_SymbolReference=|AltLibLink_DesignItemID=RCC06030000Z0EA|AltLibLink_UseLibraryName=True|AltLibLink_SourceLibraryName=stm32wl-dev.SchLib|AltLibLink_UseDBTableName=False|AltLibLink_DatabaseTableName=|AltLibLink_VaultGUID=|AltLibLink_ItemGUID=|AltLibLink_RevisionGUID=|AltLibLink_Footprint=|AltLibLink_IsSameFootprint=False
-ParamVariation1=ParameterName=Comment|VariantValue=RCC06030000Z0EA
-ParamDesignator1=L3
-ParamVariation2=ParameterName=Arrow Part Number|VariantValue=
-ParamDesignator2=L3
-ParamVariation3=ParameterName=Arrow Price/Stock|VariantValue=
-ParamDesignator3=L3
-ParamVariation4=ParameterName=Component Kind|VariantValue=Standard
-ParamDesignator4=L3
-ParamVariation5=ParameterName=Datasheet Link|VariantValue=https://www.vishay.com/docs/20066/rcce3.pdf
-ParamDesignator5=L3
-ParamVariation6=ParameterName=Description|VariantValue=Thick Film Resistors - SMD Zero ohm Jumper
-ParamDesignator6=L3
-ParamVariation7=ParameterName=Footprint|VariantValue=
-ParamDesignator7=L3
-ParamVariation8=ParameterName=Height|VariantValue=0.5mm
-ParamDesignator8=L3
-ParamVariation9=ParameterName=Ibis Model|VariantValue=
-ParamDesignator9=L3
-ParamVariation10=ParameterName=Library Reference|VariantValue=RCC06030000Z0EA
-ParamDesignator10=L3
-ParamVariation11=ParameterName=Manufacturer_Name|VariantValue=Vishay
-ParamDesignator11=L3
-ParamVariation12=ParameterName=Manufacturer_Part_Number|VariantValue=RCC06030000Z0EA
-ParamDesignator12=L3
-ParamVariation13=ParameterName=Mouser Part Number|VariantValue=71-RCC06030000Z0EA
-ParamDesignator13=L3
-ParamVariation14=ParameterName=Mouser Price/Stock|VariantValue=https://www.mouser.co.uk/ProductDetail/Vishay-Dale/RCC06030000Z0EA/?qs=GedFDFLaBXGafTcDIEa6hQ%3D%3D
-ParamDesignator14=L3
-ParamVariation15=ParameterName=PCB3D|VariantValue=
-ParamDesignator15=L3
-ParamVariation16=ParameterName=Pin Info|VariantValue=
-ParamDesignator16=L3
-ParamVariation17=ParameterName=Signal Integrity|VariantValue=
-ParamDesignator17=L3
-ParamVariation18=ParameterName=Simulation|VariantValue=
-ParamDesignator18=L3
-ParamVariation19=ParameterName=Value|VariantValue=0R
-ParamDesignator19=L3
-Variation4=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
-Variation5=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
-Variation6=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
-Variation7=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
-Variation8=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
-Variation9=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
-Variation10=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
-Variation11=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
-Variation12=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
-Variation13=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
-Variation14=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
-Variation15=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
-Variation16=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
-Variation17=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
-Variation18=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
-Variation19=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
-Variation20=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
-Variation21=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
-Variation22=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
-Variation23=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
-Variation24=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
-Variation25=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
-Variation26=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
-Variation27=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
-Variation28=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
-Variation29=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=1|AlternatePart=
-Variation30=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
-Variation31=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
-ParamVariationCount=19
+Variation3=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
+Variation4=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
+Variation5=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation6=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation7=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
+Variation8=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation9=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
+Variation10=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
+Variation11=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
+Variation12=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
+Variation13=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
+Variation14=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
+Variation15=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation16=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
+Variation17=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
+Variation18=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation19=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation20=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
+Variation21=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
+Variation22=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
+Variation23=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
+Variation24=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
+Variation25=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
+Variation26=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
+Variation27=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
+Variation28=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=1|AlternatePart=
+Variation29=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
+Variation30=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
+ParamVariationCount=0
 
 [ProjectVariant2]
 UniqueId=78850176-ee6c-4913-9997-c81d60d85ebb
 Description=linkit-v4-hw-SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=37
+VariationCount=29
 Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 Variation3=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
 Variation4=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
-Variation5=Designator=L3|UniqueId=\BDKYNOJZ\VNAPLJUM\NYNTRLFJ|Kind=1|AlternatePart=
-Variation6=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
-Variation7=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
-Variation8=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
-Variation9=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
-Variation10=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
-Variation11=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=0|AlternatePart=
-Variation12=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=0|AlternatePart=
-Variation13=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=0|AlternatePart=
-Variation14=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=0|AlternatePart=
-Variation15=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=0|AlternatePart=
-Variation16=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
-Variation17=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
-Variation18=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
-Variation19=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
-Variation20=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
-Variation21=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
-Variation22=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
-Variation23=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
-Variation24=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
-Variation25=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
-Variation26=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
-Variation27=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
-Variation28=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
-Variation29=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=0|AlternatePart=
-Variation30=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
-Variation31=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
-Variation32=Designator=R?|UniqueId=\BDKYNOJZ\FXFHETPW\YGVSQTVU|Kind=1|AlternatePart=
-Variation33=Designator=C44|UniqueId=\BDKYNOJZ\OXHHQPKW\IPJBSJAX|Kind=1|AlternatePart=
-Variation34=Designator=TP14|UniqueId=\BDKYNOJZ\VNAPLJUM\DSRETVMT|Kind=1|AlternatePart=
-Variation35=Designator=TP15|UniqueId=\BDKYNOJZ\VNAPLJUM\ZHSSJYXI|Kind=1|AlternatePart=
-Variation36=Designator=TP16|UniqueId=\BDKYNOJZ\VNAPLJUM\HFSXCGOX|Kind=1|AlternatePart=
-Variation37=Designator=TP17|UniqueId=\BDKYNOJZ\VNAPLJUM\RCEUBXZM|Kind=1|AlternatePart=
+Variation5=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation6=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation7=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
+Variation8=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation9=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
+Variation10=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation11=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
+Variation12=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
+Variation13=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation14=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation15=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
+Variation16=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
+Variation17=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
+Variation18=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
+Variation19=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
+Variation20=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
+Variation21=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
+Variation22=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
+Variation23=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
+Variation24=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
+Variation25=Designator=C44|UniqueId=\BDKYNOJZ\OXHHQPKW\IPJBSJAX|Kind=1|AlternatePart=
+Variation26=Designator=TP14|UniqueId=\BDKYNOJZ\VNAPLJUM\DSRETVMT|Kind=1|AlternatePart=
+Variation27=Designator=TP15|UniqueId=\BDKYNOJZ\VNAPLJUM\ZHSSJYXI|Kind=1|AlternatePart=
+Variation28=Designator=TP16|UniqueId=\BDKYNOJZ\VNAPLJUM\HFSXCGOX|Kind=1|AlternatePart=
+Variation29=Designator=TP17|UniqueId=\BDKYNOJZ\VNAPLJUM\RCEUBXZM|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -670,30 +623,30 @@ Name=Board_Reference
 Value=linkit-v4
 
 [DeviceSheet1]
-DocumentPath=..\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
+DocumentPath=..\stm32wl-dev\hardware-lib\DeviceSheets\Power\BQ51003YFPT_WirelessCharger_2.5W.SchDoc
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet2]
-DocumentPath=..\hardware-lib\DeviceSheets\SENSORS\BMA400_ACC_LinkitV3.SchDoc
+DocumentPath=..\stm32wl-dev\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3&2V3_400mA.SchDoc
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet3]
-DocumentPath=..\hardware-lib\DeviceSheets\GPS\SAM-M10Q.SchDoc
+DocumentPath=..\stm32wl-dev\hardware-lib\DeviceSheets\SENSORS\BMA400_ACC_LinkitV3.SchDoc
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
 [DeviceSheet4]
-DocumentPath=..\hardware-lib\DeviceSheets\Power\TPS63901_BuckBoost_lowIq_3V3&2V3_400mA.SchDoc
+DocumentPath=..\stm32wl-dev\hardware-lib\DeviceSheets\GPS\SAM-M10Q.SchDoc
 ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
+ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 GenerateClassCluster=0
 
@@ -983,16 +936,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1008,16 +951,6 @@ Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
 Configuration1_Item2=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource= |DC_PrimaryStart= |DC_PrimaryStop= |DC_PrimaryStep= |DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0= |SP_Impedance0_UserValue= |SP_Impedance0=50|SP_Port1= |SP_Impedance1_UserValue= |SP_Impedance1=50|TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=5u|TRAN_StepTime_UserValue= |TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1= |ParamSweep_Stop1= |ParamSweep_Step1= |ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|SheetsToNetlist=1|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=YWCWOFYL
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
 
 [OutputGroup3]
 Name=Documentation Outputs
