@@ -27,6 +27,8 @@ Based on the **Argos-SMD module** - an open-source alternative.
 - Additional power management circuitry for SMD module
 - Check [argos-smd-hw repository](github.com/arribada/argos-smd-hw)
 
+The master branch contains a board with both footprints on the same layout, but it is not up to date and may be missing recent changes (deprecated branch).
+
 ## Features
 
 ### Core Specifications
