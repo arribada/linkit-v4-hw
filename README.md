@@ -142,5 +142,5 @@ This project contains hardware design files only.
 All hardware design files (schematics, PCB layouts, Altium project files)
 are licensed under the **CERN Open Hardware Licence v1.2 (CERN-OHL v1.2)**.
 
-See the `LICENSE-HARDWARE` file for the full license text.
+See the `LICENSE` file for the full license text.
 
