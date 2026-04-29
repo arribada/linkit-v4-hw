@@ -21,7 +21,7 @@ TargetOutputMedium=Folder Structure
 VariantName=linkit-v4-hw-SMD
 VariantScope=1
 CurrentConfigurationName=
-TargetPrinter=Brother MFC-L2750DW series Printer
+TargetPrinter=HP901A1E (HP Smart Tank 530 series)
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputMedium1=Print Job
 OutputMedium1_Type=Printer
@@ -64,7 +64,7 @@ Configuration2_Item1=TemplateFilename=BOM_Template_Single_Supplier_Arribada.xlsx
 OutputType3=Board Stack Report
 OutputName3=Report Board Stack
 OutputCategory3=Fabrication
-OutputDocumentPath3=linkit-v4-0.3_6layers_smdonly.PcbDoc
+OutputDocumentPath3=linkit-v4-1.1_6layers_smdonly.PcbDoc
 OutputVariantName3=
 OutputEnabled3=0
 OutputEnabled3_OutputMedium1=0
@@ -78,7 +78,7 @@ Configuration3_Item1=Record=LayerStackReportView|Units=Imperial|ColumnsCount=20|
 OutputType4=Final
 OutputName4=Final Artwork Prints
 OutputCategory4=Fabrication
-OutputDocumentPath4=linkit-v4-0.3_6layers_smdonly.PcbDoc
+OutputDocumentPath4=linkit-v4-1.1_6layers_smdonly.PcbDoc
 OutputVariantName4=linkit-v4-hw-SMD
 OutputEnabled4=0
 OutputEnabled4_OutputMedium1=0
@@ -2161,7 +2161,7 @@ PcbPrintPreferences4=
 OutputType5=Gerber
 OutputName5=Gerber Files
 OutputCategory5=Fabrication
-OutputDocumentPath5=linkit-v4-0.3_6layers_smdonly.PcbDoc
+OutputDocumentPath5=linkit-v4-1.1_6layers_smdonly.PcbDoc
 OutputVariantName5=linkit-v4-hw-kim
 OutputEnabled5=1
 OutputEnabled5_OutputMedium1=0
@@ -2174,7 +2174,7 @@ Configuration5_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayer
 OutputType6=NC Drill
 OutputName6=NC Drill Files
 OutputCategory6=Fabrication
-OutputDocumentPath6=linkit-v4-0.3_6layers_smdonly.PcbDoc
+OutputDocumentPath6=linkit-v4-1.1_6layers_smdonly.PcbDoc
 OutputVariantName6=
 OutputEnabled6=1
 OutputEnabled6_OutputMedium1=0
@@ -2187,7 +2187,7 @@ Configuration6_Item1=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|Ge
 OutputType7=Board Stack Report
 OutputName7=Copy of Report Board Stack
 OutputCategory7=Fabrication
-OutputDocumentPath7=linkit-v4-0.3_6layers_smdonly.PcbDoc
+OutputDocumentPath7=linkit-v4-1.1_6layers_smdonly.PcbDoc
 OutputVariantName7=
 OutputEnabled7=1
 OutputEnabled7_OutputMedium1=0
@@ -2201,7 +2201,7 @@ Configuration7_Item1=Record=LayerStackReportView|Units=Imperial|ColumnsCount=4|C
 OutputType8=Pick Place
 OutputName8=Generates pick and place files
 OutputCategory8=Assembly
-OutputDocumentPath8=linkit-v4-0.3_6layers_smdonly.PcbDoc
+OutputDocumentPath8=linkit-v4-1.1_6layers_smdonly.PcbDoc
 OutputVariantName8=linkit-v4-hw-SMD
 OutputEnabled8=1
 OutputEnabled8_OutputMedium1=0
@@ -2213,9 +2213,9 @@ Configuration8_Name1=OutputConfigurationParameter1
 Configuration8_Item1=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=False|GenerateTextFormat=True|ShowUnits=False|Separator= |ExcludeFilterParam=False|IncludeVariations=False|IncludeStandardNoBOM=True|Filter= |FilterActive=False|YFlip=False|DifferentFootprints=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:False,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|DocumentPath=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\linkit-v4-0.3_6layers_kimonly.PcbDoc
 
 [PublishSettings]
-OutputFilePath2=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\.PDF
+OutputFilePath2=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\linkit-v4-hw.pdf
 ReleaseManaged2=0
-OutputBasePath2=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\
+OutputBasePath2=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
@@ -2240,9 +2240,9 @@ ShowComponentParameters2=1
 GlobalBookmarks2=0
 PDFACompliance2=Disabled
 PDFVersion2=Default
-OutputFilePath3=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\
-ReleaseManaged3=1
-OutputBasePath3=Project Outputs for linkit-v4-hw
+OutputFilePath3=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\
+ReleaseManaged3=0
+OutputBasePath3=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\
 OutputPathMedia3=
 OutputPathMediaValue3=
 OutputPathOutputer3=[Output Type]
@@ -2292,9 +2292,9 @@ WmvVideoCodecName4=Windows Media Video V7
 WmvQuality4=80
 
 [GeneratedFilesSettings]
-RelativeOutputPath2=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\.PDF
+RelativeOutputPath2=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\linkit-v4-hw.pdf
 OpenOutputs2=1
-RelativeOutputPath3=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\
+RelativeOutputPath3=C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\
 OpenOutputs3=1
 AddToProject3=1
 TimestampFolder3=0
