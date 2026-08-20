@@ -1,0 +1,15 @@
+Layer Pairs Export File for PCB: C:\Users\fourn\Altium\AD25\Projects\Arribada\linkit-v4-hw\pcb\linkit-v4-1.1_6layers_smdonly.PcbDoc
+LayersSetName=Top_Bot_Thru_Holes|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
+LayersSetName=Top_Bot_Square_Holes|DrillFile=linkit-v4-1.1_6layers_smdonly-squareholes.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
+LayersSetName=Top_Bot_Slot_Holes|DrillFile=linkit-v4-1.1_6layers_smdonly-slotholes.txt|DrillLayers=gtl,gp1,g1,g2,gp2,gbl
+LayersSetName=Top_Int1 (GND)_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx1|DrillLayers=gtl,gp1
+LayersSetName=Top_Int2 (Sign)_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx2|DrillLayers=gtl,gp1,g1
+LayersSetName=Top_Int3 (Sign)_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx3|DrillLayers=gtl,gp1,g1,g2
+LayersSetName=Top_Int4 (PWR)_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx4|DrillLayers=gtl,gp1,g1,g2,gp2
+LayersSetName=Int1 (GND)_Int2 (Sign)_Buried_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx5|DrillLayers=gp1,g1
+LayersSetName=Int1 (GND)_Int3 (Sign)_Buried_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx6|DrillLayers=gp1,g1,g2
+LayersSetName=Int1 (GND)_Bot_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx7|DrillLayers=gp1,g1,g2,gp2,gbl
+LayersSetName=Int2 (Sign)_Int3 (Sign)_Buried_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx8|DrillLayers=g1,g2
+LayersSetName=Int2 (Sign)_Bot_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx9|DrillLayers=g1,g2,gp2,gbl
+LayersSetName=Int3 (Sign)_Bot_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx10|DrillLayers=g2,gp2,gbl
+LayersSetName=Int4 (PWR)_Bot_Blind_Vias|DrillFile=linkit-v4-1.1_6layers_smdonly-roundholes.tx11|DrillLayers=gp2,gbl

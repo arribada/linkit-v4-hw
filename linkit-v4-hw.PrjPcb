@@ -276,38 +276,36 @@ UniqueId=d7665504-6e05-4cd2-9241-623707cce4a7
 Description=linkit-v4-hw-kim
 AllowFabrication=0
 ParameterCount=0
-VariationCount=31
+VariationCount=29
 Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 Variation3=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
-Variation4=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
-Variation5=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
-Variation6=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
-Variation7=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
-Variation8=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
-Variation9=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
-Variation10=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
-Variation11=Designator=R18|UniqueId=\BDKYNOJZ\SXEUGZCG\JCKKWHWE|Kind=1|AlternatePart=
-Variation12=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
-Variation13=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
-Variation14=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
-Variation15=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
-Variation16=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
-Variation17=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
-Variation18=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
-Variation19=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
-Variation20=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
-Variation21=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
-Variation22=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
-Variation23=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
-Variation24=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
-Variation25=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
-Variation26=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
-Variation27=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
-Variation28=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=1|AlternatePart=
-Variation29=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
-Variation30=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
-Variation31=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
+Variation4=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation5=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation6=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
+Variation7=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation8=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
+Variation9=Designator=R19|UniqueId=\BDKYNOJZ\SXEUGZCG\CPEKUWGV|Kind=1|AlternatePart=
+Variation10=Designator=R20|UniqueId=\BDKYNOJZ\SXEUGZCG\YJLUULDO|Kind=1|AlternatePart=
+Variation11=Designator=R21|UniqueId=\BDKYNOJZ\SXEUGZCG\KXSRJZDJ|Kind=1|AlternatePart=
+Variation12=Designator=R22|UniqueId=\BDKYNOJZ\SXEUGZCG\UKKMBUYT|Kind=1|AlternatePart=
+Variation13=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation14=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
+Variation15=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
+Variation16=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation17=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation18=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
+Variation19=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
+Variation20=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
+Variation21=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
+Variation22=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
+Variation23=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
+Variation24=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
+Variation25=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
+Variation26=Designator=R57|UniqueId=\BDKYNOJZ\SXEUGZCG\DXOZNRMJ|Kind=1|AlternatePart=
+Variation27=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
+Variation28=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
+Variation29=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [ProjectVariant2]
@@ -315,37 +313,36 @@ UniqueId=78850176-ee6c-4913-9997-c81d60d85ebb
 Description=linkit-v4-hw-SMD
 AllowFabrication=0
 ParameterCount=0
-VariationCount=30
+VariationCount=29
 Variation1=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
 Variation2=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 Variation3=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
-Variation4=Designator=R29|UniqueId=\BDKYNOJZ\FXFHETPW\SVPNPTSN|Kind=1|AlternatePart=
-Variation5=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
-Variation6=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
-Variation7=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
-Variation8=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
-Variation9=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
-Variation10=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
-Variation11=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
-Variation12=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
-Variation13=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
-Variation14=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
-Variation15=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
-Variation16=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
-Variation17=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
-Variation18=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
-Variation19=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
-Variation20=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
-Variation21=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
-Variation22=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
-Variation23=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
-Variation24=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
-Variation25=Designator=C44|UniqueId=\BDKYNOJZ\OXHHQPKW\IPJBSJAX|Kind=1|AlternatePart=
-Variation26=Designator=TP14|UniqueId=\BDKYNOJZ\VNAPLJUM\DSRETVMT|Kind=1|AlternatePart=
-Variation27=Designator=TP15|UniqueId=\BDKYNOJZ\VNAPLJUM\ZHSSJYXI|Kind=1|AlternatePart=
-Variation28=Designator=TP16|UniqueId=\BDKYNOJZ\VNAPLJUM\HFSXCGOX|Kind=1|AlternatePart=
-Variation29=Designator=TP17|UniqueId=\BDKYNOJZ\VNAPLJUM\RCEUBXZM|Kind=1|AlternatePart=
-Variation30=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
+Variation4=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation5=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation6=Designator=R35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UCHEWAHM|Kind=1|AlternatePart=
+Variation7=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation8=Designator=BT1|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\SUMUJQKF|Kind=1|AlternatePart=
+Variation9=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation10=Designator=J1|UniqueId=\BDKYNOJZ\SXEUGZCG\ACWHADIJ|Kind=1|AlternatePart=
+Variation11=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
+Variation12=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation13=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation14=Designator=J15|UniqueId=\BDKYNOJZ\NSSIKPVD\BAKNLKHU|Kind=1|AlternatePart=
+Variation15=Designator=MH1|UniqueId=\BDKYNOJZ\NSSIKPVD\MXJWDVHD|Kind=1|AlternatePart=
+Variation16=Designator=MH2|UniqueId=\BDKYNOJZ\NSSIKPVD\UIXYGWLN|Kind=1|AlternatePart=
+Variation17=Designator=MH3|UniqueId=\BDKYNOJZ\NSSIKPVD\WXADIZWN|Kind=1|AlternatePart=
+Variation18=Designator=MH4|UniqueId=\BDKYNOJZ\NSSIKPVD\APMBLLGS|Kind=1|AlternatePart=
+Variation19=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
+Variation20=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
+Variation21=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
+Variation22=Designator=J12|UniqueId=\BDKYNOJZ\VNAPLJUM\JHCFWKOO|Kind=1|AlternatePart=
+Variation23=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=1|AlternatePart=
+Variation24=Designator=C44|UniqueId=\BDKYNOJZ\OXHHQPKW\IPJBSJAX|Kind=1|AlternatePart=
+Variation25=Designator=TP14|UniqueId=\BDKYNOJZ\VNAPLJUM\DSRETVMT|Kind=1|AlternatePart=
+Variation26=Designator=TP15|UniqueId=\BDKYNOJZ\VNAPLJUM\ZHSSJYXI|Kind=1|AlternatePart=
+Variation27=Designator=TP16|UniqueId=\BDKYNOJZ\VNAPLJUM\HFSXCGOX|Kind=1|AlternatePart=
+Variation28=Designator=TP17|UniqueId=\BDKYNOJZ\VNAPLJUM\RCEUBXZM|Kind=1|AlternatePart=
+Variation29=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -745,32 +742,52 @@ DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for linkit-v4-hw\Pick Place\Pick Place for linkit-v4-0.3_6layers_kimonly.txt
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\linkit-v4-hw.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-hw-SMD).txt
+DocumentPath=Project Outputs for linkit-v4-hw\Pick Place\Pick Place for linkit-v4-0.3_6layers_kimonly.txt
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz72EB.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-hw-SMD).txt
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz465C.xls
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz43CF.xls
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz863E.xls
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz72EB.xls
 DItemRevisionGUID=
 
 [GeneratedDocument105]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz465C.xls
+DItemRevisionGUID=
+
+[GeneratedDocument106]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz507F.xls
+DItemRevisionGUID=
+
+[GeneratedDocument107]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz863E.xls
+DItemRevisionGUID=
+
+[GeneratedDocument108]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzACC0.xls
+DItemRevisionGUID=
+
+[GeneratedDocument109]
 DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzBFDF.xls
+DItemRevisionGUID=
+
+[GeneratedDocument110]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzE6AF.xls
 DItemRevisionGUID=
 
 [Parameter1]
 Name=Board_Assembly_Revision
-Value=0
+Value=1
 
 [Parameter2]
 Name=Board_Name
@@ -778,7 +795,7 @@ Value=Linkit Kim/SMD
 
 [Parameter3]
 Name=Board_PCB_Revision
-Value=1
+Value=4.2
 
 [Parameter4]
 Name=Board_Reference
@@ -2080,6 +2097,12 @@ SelectedOnly=1
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
+ComponentLibIdentifierKind0=Library Name And Type
+ComponentLibraryIdentifier0=Arribada_Passives.SchLib
+ComponentDesignItemID0=GRM188R61A226ME15D
+ComponentSymbolReference0=GRM188R61A226ME15D
+ComponentUpdate0=1
+ComponentIsDeviceSheet0=0
 FullReplace=1
 UpdateDesignatorLock=1
 UpdatePartIDLock=1
@@ -2093,6 +2116,37 @@ RemoveParameters=0
 AddModels=1
 RemoveModels=1
 UpdateCurrentModels=1
+ParameterName0=Arrow Part Number
+ParameterUpdate0=1
+ParameterName1=Arrow Price/Stock
+ParameterUpdate1=1
+ParameterName2=Comment
+ParameterUpdate2=1
+ParameterName3=Component Kind
+ParameterUpdate3=1
+ParameterName4=Datasheet Link
+ParameterUpdate4=1
+ParameterName5=Description
+ParameterUpdate5=1
+ParameterName6=Height
+ParameterUpdate6=1
+ParameterName7=Library Reference
+ParameterUpdate7=1
+ParameterName8=Manufacturer_Name
+ParameterUpdate8=1
+ParameterName9=Manufacturer_Part_Number
+ParameterUpdate9=1
+ParameterName10=Mouser Part Number
+ParameterUpdate10=1
+ParameterName11=Mouser Price/Stock
+ParameterUpdate11=1
+ParameterName12=Value
+ParameterUpdate12=1
+ModelTypeGroup0=PCBLIB
+ModelTypeUpdate0=1
+ModelType0=PCBLIB
+ModelName0=GRM18x
+ModelUpdate0=1
 
 [DatabaseUpdateOptions]
 SelectedOnly=0
