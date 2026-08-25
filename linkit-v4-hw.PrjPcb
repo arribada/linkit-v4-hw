@@ -44,7 +44,7 @@ CrossRefPorts=3
 CrossRefCrossSheets=1
 CrossRefSheetEntries=0
 CrossRefFollowFromMainSettings=1
-CurrentVariant=linkit-v4-hw-SMD
+CurrentVariant=linkit-v4-smd-no-charger
 
 [Preferences]
 PrefsVaultGUID=
@@ -343,6 +343,69 @@ Variation26=Designator=TP15|UniqueId=\BDKYNOJZ\VNAPLJUM\ZHSSJYXI|Kind=1|Alternat
 Variation27=Designator=TP16|UniqueId=\BDKYNOJZ\VNAPLJUM\HFSXCGOX|Kind=1|AlternatePart=
 Variation28=Designator=TP17|UniqueId=\BDKYNOJZ\VNAPLJUM\RCEUBXZM|Kind=1|AlternatePart=
 Variation29=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant3]
+UniqueId=ea8ff3b9-bdb0-4159-a393-a752260d3dfa
+Description=linkit-v4-smd-no-charger
+AllowFabrication=0
+ParameterCount=0
+VariationCount=55
+Variation1=Designator=C23|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\TXHTIUCC|Kind=1|AlternatePart=
+Variation2=Designator=C36|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\HPLQEMGB|Kind=1|AlternatePart=
+Variation3=Designator=U7|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\NBUCSWHH|Kind=1|AlternatePart=
+Variation4=Designator=C25|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\WIVXIAUW|Kind=1|AlternatePart=
+Variation5=Designator=C35|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\WGMSODHQ|Kind=1|AlternatePart=
+Variation6=Designator=C29|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\HPEZMVEF|Kind=1|AlternatePart=
+Variation7=Designator=C34|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\XYGFCLGG|Kind=1|AlternatePart=
+Variation8=Designator=C32|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\ECJLMDHT|Kind=1|AlternatePart=
+Variation9=Designator=C28|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\WNBQKZLK|Kind=1|AlternatePart=
+Variation10=Designator=C30|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\YGQLGNTD|Kind=1|AlternatePart=
+Variation11=Designator=C31|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\FPFAFTFZ|Kind=1|AlternatePart=
+Variation12=Designator=R37|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\QMJBHVBC|Kind=1|AlternatePart=
+Variation13=Designator=R39|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\PXHWHINU|Kind=1|AlternatePart=
+Variation14=Designator=R36|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\JNTLPNSH|Kind=1|AlternatePart=
+Variation15=Designator=C26|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\XNUKVYHR|Kind=1|AlternatePart=
+Variation16=Designator=C27|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\UULESZZZ|Kind=1|AlternatePart=
+Variation17=Designator=Q5|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\QRLFXRJF|Kind=1|AlternatePart=
+Variation18=Designator=R38|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\HCOYRQYB|Kind=1|AlternatePart=
+Variation19=Designator=C33|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\ZSZYMMMY|Kind=1|AlternatePart=
+Variation20=Designator=C24|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\DMPPCCKC|Kind=1|AlternatePart=
+Variation21=Designator=C43|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\RFHYRYLM|Kind=1|AlternatePart=
+Variation22=Designator=R52|UniqueId=\BDKYNOJZ\OXHHQPKW\EJOZTRQR|Kind=1|AlternatePart=
+Variation23=Designator=D5|UniqueId=\BDKYNOJZ\OXHHQPKW\ZEJXWBRS|Kind=1|AlternatePart=
+Variation24=Designator=C56|UniqueId=\BDKYNOJZ\OXHHQPKW\NCOZRZEK|Kind=1|AlternatePart=
+Variation25=Designator=FB5|UniqueId=\BDKYNOJZ\OXHHQPKW\BTEUNUZM|Kind=1|AlternatePart=
+Variation26=Designator=MEC1|UniqueId=\BDKYNOJZ\SXEUGZCG\FCPQMXGB|Kind=1|AlternatePart=
+Variation27=Designator=R26|UniqueId=\BDKYNOJZ\FXFHETPW\UBYDITFZ|Kind=1|AlternatePart=
+Variation28=Designator=R2|UniqueId=\BDKYNOJZ\IVFBFJFR|Kind=1|AlternatePart=
+Variation29=Designator=R1|UniqueId=\BDKYNOJZ\LITOREJZ|Kind=1|AlternatePart=
+Variation30=Designator=U5|UniqueId=\BDKYNOJZ\FXFHETPW\VMAOWVXB|Kind=1|AlternatePart=
+Variation31=Designator=C13|UniqueId=\BDKYNOJZ\FXFHETPW\PMVWCATB|Kind=1|AlternatePart=
+Variation32=Designator=C12|UniqueId=\BDKYNOJZ\FXFHETPW\PVJACOEK|Kind=1|AlternatePart=
+Variation33=Designator=R27|UniqueId=\BDKYNOJZ\FXFHETPW\BUOZKBHF|Kind=1|AlternatePart=
+Variation34=Designator=C14|UniqueId=\BDKYNOJZ\FXFHETPW\PMGHMZSV|Kind=1|AlternatePart=
+Variation35=Designator=R30|UniqueId=\BDKYNOJZ\FXFHETPW\YCICMVJY|Kind=1|AlternatePart=
+Variation36=Designator=C15|UniqueId=\BDKYNOJZ\FXFHETPW\BEJBHHRZ|Kind=1|AlternatePart=
+Variation37=Designator=R32|UniqueId=\BDKYNOJZ\FXFHETPW\EEZOHWDO|Kind=1|AlternatePart=
+Variation38=Designator=C16|UniqueId=\BDKYNOJZ\FXFHETPW\ZSOZJQMJ|Kind=1|AlternatePart=
+Variation39=Designator=R28|UniqueId=\BDKYNOJZ\FXFHETPW\WGOGUXBR|Kind=1|AlternatePart=
+Variation40=Designator=R51|UniqueId=\BDKYNOJZ\FXFHETPW\LJPMWTJJ|Kind=1|AlternatePart=
+Variation41=Designator=C57|UniqueId=\BDKYNOJZ\FXFHETPW\FIASJGAM|Kind=1|AlternatePart=
+Variation42=Designator=FB1|UniqueId=\BDKYNOJZ\FXFHETPW\VNPBRIYZ|Kind=1|AlternatePart=
+Variation43=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|AlternatePart=
+Variation44=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
+Variation45=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
+Variation46=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
+Variation47=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=0|AlternatePart=
+Variation48=Designator=J8|UniqueId=\BDKYNOJZ\NSSIKPVD\KSBCZCUD|Kind=1|AlternatePart=
+Variation49=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation50=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation51=Designator=D9|UniqueId=\BDKYNOJZ\NSSIKPVD\KKRHIXKM|Kind=1|AlternatePart=
+Variation52=Designator=D10|UniqueId=\BDKYNOJZ\NSSIKPVD\EQSOIRHZ|Kind=1|AlternatePart=
+Variation53=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation54=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
+Variation55=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -1409,6 +1472,11 @@ OutputName10=Report Single Pin Nets
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
+OutputType11=BOM_ReportManufacturing
+OutputName11=Manufacturing Data
+OutputDocumentPath11=
+OutputVariantName11=[No Variations]
+OutputDefault11=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1536,6 +1604,36 @@ OutputName13=Web Review Data
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
+OutputType14=Ansoft Neutral
+OutputName14=Ansoft Neutral (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=HyperLynx
+OutputName15=HyperLynx (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=MathWorks
+OutputName16=MathWorks (AutoPCB)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=Orcad v7 Capture Design
+OutputName17=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD ASCII
+OutputName18=P-CAD ASCII (AutoPCB)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
+OutputType19=P-CAD V16 Schematic Design
+OutputName19=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath19=
+OutputVariantName19=
+OutputDefault19=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -1700,6 +1798,26 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
+Type152=1
+Type153=1
+Type154=1
+Type155=1
+Type156=1
+Type157=1
+Type158=1
+Type159=1
+Type160=1
+Type161=1
+Type162=1
+Type163=1
+Type164=1
+Type165=1
+Type166=1
+Type167=1
+Type168=1
+Type169=1
+Type170=1
+Type171=1
 
 [Difference Levels]
 Type1=1
@@ -1784,6 +1902,19 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
+Type83=1
+Type84=1
+Type85=1
+Type86=1
+Type87=1
+Type88=1
+Type89=1
+Type90=1
+Type91=1
+Type92=1
+Type93=1
+Type94=1
+Type95=1
 
 [Electrical Rules Check]
 Type1=0
@@ -1947,6 +2078,10 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
+Type162=1
+Type163=1
+Type164=1
+Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

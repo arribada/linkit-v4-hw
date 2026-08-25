@@ -1,0 +1,10 @@
+Output: Protel2 Netlist
+Type  : Protel2Netlist
+From  : Project [linkit-v4-hw.PrjPcb]
+   Generated File[linkit-v4-hw.NET]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 11:26:41 On 25/08/2026
