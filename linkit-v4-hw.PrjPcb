@@ -350,7 +350,7 @@ UniqueId=ea8ff3b9-bdb0-4159-a393-a752260d3dfa
 Description=linkit-v4-smd-no-charger
 AllowFabrication=0
 ParameterCount=0
-VariationCount=55
+VariationCount=54
 Variation1=Designator=C23|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\TXHTIUCC|Kind=1|AlternatePart=
 Variation2=Designator=C36|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\HPLQEMGB|Kind=1|AlternatePart=
 Variation3=Designator=U7|UniqueId=\BDKYNOJZ\OXHHQPKW\GSWEXANC\NBUCSWHH|Kind=1|AlternatePart=
@@ -397,15 +397,14 @@ Variation43=Designator=R43|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\PRJIEGZS|Kind=1|
 Variation44=Designator=R44|UniqueId=\BDKYNOJZ\FXFHETPW\THXWWEXP\TQRCNCLC|Kind=1|AlternatePart=
 Variation45=Designator=C51|UniqueId=\BDKYNOJZ\NSSIKPVD\FOFZGOXQ|Kind=1|AlternatePart=
 Variation46=Designator=J2|UniqueId=\BDKYNOJZ\NSSIKPVD\RPMDESZN|Kind=1|AlternatePart=
-Variation47=Designator=J14|UniqueId=\BDKYNOJZ\NSSIKPVD\LGZLYVWJ|Kind=0|AlternatePart=
-Variation48=Designator=J8|UniqueId=\BDKYNOJZ\NSSIKPVD\KSBCZCUD|Kind=1|AlternatePart=
-Variation49=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
-Variation50=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
-Variation51=Designator=D9|UniqueId=\BDKYNOJZ\NSSIKPVD\KKRHIXKM|Kind=1|AlternatePart=
-Variation52=Designator=D10|UniqueId=\BDKYNOJZ\NSSIKPVD\EQSOIRHZ|Kind=1|AlternatePart=
-Variation53=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
-Variation54=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
-Variation55=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
+Variation47=Designator=J8|UniqueId=\BDKYNOJZ\NSSIKPVD\KSBCZCUD|Kind=1|AlternatePart=
+Variation48=Designator=J7|UniqueId=\BDKYNOJZ\NSSIKPVD\YAYIFOPR|Kind=1|AlternatePart=
+Variation49=Designator=J10|UniqueId=\BDKYNOJZ\NSSIKPVD\RNVAQOUT|Kind=1|AlternatePart=
+Variation50=Designator=D9|UniqueId=\BDKYNOJZ\NSSIKPVD\KKRHIXKM|Kind=1|AlternatePart=
+Variation51=Designator=D10|UniqueId=\BDKYNOJZ\NSSIKPVD\EQSOIRHZ|Kind=1|AlternatePart=
+Variation52=Designator=J13|UniqueId=\BDKYNOJZ\VNAPLJUM\SOHXEIXR|Kind=1|AlternatePart=
+Variation53=Designator=C49|UniqueId=\BDKYNOJZ\VNAPLJUM\DFSKQETU|Kind=1|AlternatePart=
+Variation54=Designator=C47|UniqueId=\BDKYNOJZ\VNAPLJUM\RQYCEWYA|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [GeneratedDocument1]
@@ -413,438 +412,450 @@ DocumentPath=Project Outputs for linkit-v4-hw\BOM\Bill of Materials-linkit-v4-hw
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for linkit-v4-hw\Design Rule Check - linkit-v4-0.html
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\Bill of Materials-linkit-v4-hw(linkit-v4-smd-no-charger).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX1
+DocumentPath=Project Outputs for linkit-v4-hw\Design Rule Check - linkit-v4-0.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX2
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX3
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX4
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX5
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX6
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX5
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX7
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX8
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX7
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX9
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX8
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX10
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX9
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX11
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX11
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-SlotHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.DRR
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.EXTREP
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G1
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBL
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G2
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBO
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBP
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBS
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD3
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD2
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD4
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD3
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD5
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD4
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD6
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD5
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD7
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD6
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD8
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD7
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD9
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD8
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD10
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD9
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD11
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD10
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD12
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD11
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD12
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG3
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG2
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG4
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG3
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG5
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG4
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG6
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG5
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG7
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG6
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG8
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG7
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG9
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG8
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG10
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG9
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG11
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG10
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG12
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG11
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GKO
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG12
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GM
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GM
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPB
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPT
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTL
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTO
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTP
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTS
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.LDP
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.REP
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for linkit-v4-hw\Report Board Stack\linkit-v4-0.3_6layers_kimonly.xls
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.REP
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX1
+DocumentPath=Project Outputs for linkit-v4-hw\Report Board Stack\linkit-v4-0.3_6layers_kimonly.xls
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX2
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX3
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX4
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX5
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX6
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX5
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX7
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX8
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX7
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX9
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX8
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX10
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX9
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX11
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX11
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SlotHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SquareHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.DRR
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.EXTREP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G1
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G2
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G1
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBL
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G2
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBO
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBS
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GKO
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM19
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM21
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM19
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP1
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM21
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP2
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPB
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPT
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTL
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTO
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTS
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.LDP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.REP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Report Board Stack\linkit-v4-1.1_6layers_smdonly.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.REP
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Report Board Stack\linkit-v4-1.1_6layers_smdonly.xls
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Simulation\linkit-v4-hw.sdf
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Protel2Netlist\linkit-v4-hw.NET
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\linkit-v4-hw.xlsx
+DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Project Outputs for linkit-v4-hw\Pick Place\Pick Place for linkit-v4-0.3_6layers_kimonly.txt
+DocumentPath=Simulation\linkit-v4-hw.sdf
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-hw-SMD).txt
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\linkit-v4-hw.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz43CF.xls
+DocumentPath=Project Outputs for linkit-v4-hw\Pick Place\Pick Place for linkit-v4-0.3_6layers_kimonly.txt
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz72EB.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-hw-SMD).txt
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz465C.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-smd-no-charger).txt
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz507F.xls
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz43CF.xls
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz863E.xls
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz72EB.xls
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzACC0.xls
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz465C.xls
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzBFDF.xls
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz507F.xls
 DItemRevisionGUID=
 
 [GeneratedDocument110]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz863E.xls
+DItemRevisionGUID=
+
+[GeneratedDocument111]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzACC0.xls
+DItemRevisionGUID=
+
+[GeneratedDocument112]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzBFDF.xls
+DItemRevisionGUID=
+
+[GeneratedDocument113]
 DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzE6AF.xls
 DItemRevisionGUID=
 
@@ -1604,36 +1615,6 @@ OutputName13=Web Review Data
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=Ansoft Neutral
-OutputName14=Ansoft Neutral (AutoPCB)
-OutputDocumentPath14=
-OutputVariantName14=
-OutputDefault14=0
-OutputType15=HyperLynx
-OutputName15=HyperLynx (AutoPCB)
-OutputDocumentPath15=
-OutputVariantName15=
-OutputDefault15=0
-OutputType16=MathWorks
-OutputName16=MathWorks (AutoPCB)
-OutputDocumentPath16=
-OutputVariantName16=
-OutputDefault16=0
-OutputType17=Orcad v7 Capture Design
-OutputName17=Orcad v7 Capture Design (AutoSCH)
-OutputDocumentPath17=
-OutputVariantName17=
-OutputDefault17=0
-OutputType18=P-CAD ASCII
-OutputName18=P-CAD ASCII (AutoPCB)
-OutputDocumentPath18=
-OutputVariantName18=
-OutputDefault18=0
-OutputType19=P-CAD V16 Schematic Design
-OutputName19=P-CAD V16 Schematic Design (AutoSCH)
-OutputDocumentPath19=
-OutputVariantName19=
-OutputDefault19=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
@@ -2233,9 +2214,9 @@ UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
 ComponentLibIdentifierKind0=Library Name And Type
-ComponentLibraryIdentifier0=Arribada_Passives.SchLib
-ComponentDesignItemID0=GRM188R61A226ME15D
-ComponentSymbolReference0=GRM188R61A226ME15D
+ComponentLibraryIdentifier0=stm32wl-dev.SchLib
+ComponentDesignItemID0=GRM188R61A106MAALJ
+ComponentSymbolReference0=GRM188R61A106MAALJ
 ComponentUpdate0=1
 ComponentIsDeviceSheet0=0
 FullReplace=1
@@ -2280,7 +2261,7 @@ ParameterUpdate12=1
 ModelTypeGroup0=PCBLIB
 ModelTypeUpdate0=1
 ModelType0=PCBLIB
-ModelName0=GRM18x
+ModelName0=CAPC1608X90N
 ModelUpdate0=1
 
 [DatabaseUpdateOptions]
