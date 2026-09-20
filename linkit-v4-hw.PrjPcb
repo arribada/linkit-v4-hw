@@ -38,7 +38,7 @@ OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
-CrossRefSheetStyle=2
+CrossRefSheetStyle=1
 CrossRefLocationStyle=1
 CrossRefPorts=3
 CrossRefCrossSheets=1
@@ -412,450 +412,610 @@ DocumentPath=Project Outputs for linkit-v4-hw\BOM\Bill of Materials-linkit-v4-hw
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\Bill of Materials-linkit-v4-hw(linkit-v4-smd-no-charger).xlsx
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\Bill of Materials-linkit-v4-hw(linkit-v4-smd-no-charger).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for linkit-v4-hw\Design Rule Check - linkit-v4-0.html
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\Bill of Materials-linkit-v4-hw(linkit-v4-smd-no-charger).xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX1
+DocumentPath=Project Outputs for linkit-v4-hw\Design Rule Check - linkit-v4-0.html
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX2
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX3
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX4
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX5
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX6
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX5
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX7
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX8
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX7
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX9
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX8
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX10
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX9
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX11
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TX11
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-SlotHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.DRR
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.EXTREP
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G1
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBL
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.G2
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBO
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBP
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBS
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD1
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD3
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD2
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD4
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD3
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD5
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD4
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD6
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD5
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD7
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD6
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD8
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD7
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD9
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD8
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD10
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD9
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD11
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD10
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD12
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD11
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GD12
 DItemRevisionGUID=
 
 [GeneratedDocument38]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG1
 DItemRevisionGUID=
 
 [GeneratedDocument39]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG3
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG2
 DItemRevisionGUID=
 
 [GeneratedDocument40]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG4
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG3
 DItemRevisionGUID=
 
 [GeneratedDocument41]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG5
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG4
 DItemRevisionGUID=
 
 [GeneratedDocument42]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG6
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG5
 DItemRevisionGUID=
 
 [GeneratedDocument43]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG7
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG6
 DItemRevisionGUID=
 
 [GeneratedDocument44]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG8
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG7
 DItemRevisionGUID=
 
 [GeneratedDocument45]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG9
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG8
 DItemRevisionGUID=
 
 [GeneratedDocument46]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG10
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG9
 DItemRevisionGUID=
 
 [GeneratedDocument47]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG11
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG10
 DItemRevisionGUID=
 
 [GeneratedDocument48]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG12
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG11
 DItemRevisionGUID=
 
 [GeneratedDocument49]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GKO
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GG12
 DItemRevisionGUID=
 
 [GeneratedDocument50]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GM
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument51]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP1
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GM
 DItemRevisionGUID=
 
 [GeneratedDocument52]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP2
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP1
 DItemRevisionGUID=
 
 [GeneratedDocument53]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPB
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GP2
 DItemRevisionGUID=
 
 [GeneratedDocument54]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPT
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPB
 DItemRevisionGUID=
 
 [GeneratedDocument55]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTL
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GPT
 DItemRevisionGUID=
 
 [GeneratedDocument56]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTO
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument57]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTP
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument58]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTS
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument59]
-DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.LDP
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument60]
-DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.REP
+DocumentPath=Project Outputs for linkit-v4-hw\NC Drill\linkit-v4-0.3_6layers_kimonly.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument61]
-DocumentPath=Project Outputs for linkit-v4-hw\Report Board Stack\linkit-v4-0.3_6layers_kimonly.xls
+DocumentPath=Project Outputs for linkit-v4-hw\Gerber\linkit-v4-0.3_6layers_kimonly.REP
 DItemRevisionGUID=
 
 [GeneratedDocument62]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX1
+DocumentPath=Project Outputs for linkit-v4-hw\Report Board Stack\linkit-v4-0.3_6layers_kimonly.xls
 DItemRevisionGUID=
 
 [GeneratedDocument63]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX2
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument64]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX3
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX1
 DItemRevisionGUID=
 
 [GeneratedDocument65]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX4
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument66]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX5
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX2
 DItemRevisionGUID=
 
 [GeneratedDocument67]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX6
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument68]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX7
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX3
 DItemRevisionGUID=
 
 [GeneratedDocument69]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX8
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument70]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX9
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX4
 DItemRevisionGUID=
 
 [GeneratedDocument71]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX10
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX5
 DItemRevisionGUID=
 
 [GeneratedDocument72]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX11
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX5
 DItemRevisionGUID=
 
 [GeneratedDocument73]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TXT
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument74]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SlotHoles.TXT
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX6
 DItemRevisionGUID=
 
 [GeneratedDocument75]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SquareHoles.TXT
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX7
 DItemRevisionGUID=
 
 [GeneratedDocument76]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.DRR
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX7
 DItemRevisionGUID=
 
 [GeneratedDocument77]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.EXTREP
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX8
 DItemRevisionGUID=
 
 [GeneratedDocument78]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G1
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX8
 DItemRevisionGUID=
 
 [GeneratedDocument79]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G2
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX9
 DItemRevisionGUID=
 
 [GeneratedDocument80]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBL
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX9
 DItemRevisionGUID=
 
 [GeneratedDocument81]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBO
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument82]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX10
 DItemRevisionGUID=
 
 [GeneratedDocument83]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBS
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX11
 DItemRevisionGUID=
 
 [GeneratedDocument84]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GKO
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TX11
 DItemRevisionGUID=
 
 [GeneratedDocument85]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument86]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM19
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-RoundHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument87]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM21
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument88]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP1
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SlotHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument89]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP2
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument90]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPB
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly-SquareHoles.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument91]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPT
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument92]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTL
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument93]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTO
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument94]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument95]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTS
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G1
 DItemRevisionGUID=
 
 [GeneratedDocument96]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.LDP
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G1
 DItemRevisionGUID=
 
 [GeneratedDocument97]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.REP
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G2
 DItemRevisionGUID=
 
 [GeneratedDocument98]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Report Board Stack\linkit-v4-1.1_6layers_smdonly.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.G2
 DItemRevisionGUID=
 
 [GeneratedDocument99]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Protel2Netlist\linkit-v4-hw.NET
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument100]
-DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument101]
-DocumentPath=Simulation\linkit-v4-hw.sdf
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument102]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\linkit-v4-hw.xlsx
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument103]
-DocumentPath=Project Outputs for linkit-v4-hw\Pick Place\Pick Place for linkit-v4-0.3_6layers_kimonly.txt
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument104]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-hw-SMD).txt
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument105]
-DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-smd-no-charger).txt
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument106]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz43CF.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument107]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz72EB.xls
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument108]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz465C.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GKO
 DItemRevisionGUID=
 
 [GeneratedDocument109]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz507F.xls
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM
 DItemRevisionGUID=
 
 [GeneratedDocument110]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz863E.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM
 DItemRevisionGUID=
 
 [GeneratedDocument111]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzACC0.xls
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM19
 DItemRevisionGUID=
 
 [GeneratedDocument112]
-DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzBFDF.xls
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM19
 DItemRevisionGUID=
 
 [GeneratedDocument113]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument114]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GM21
+DItemRevisionGUID=
+
+[GeneratedDocument115]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument116]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument117]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument118]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GP2
+DItemRevisionGUID=
+
+[GeneratedDocument119]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument120]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPB
+DItemRevisionGUID=
+
+[GeneratedDocument121]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument122]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GPT
+DItemRevisionGUID=
+
+[GeneratedDocument123]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument124]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument125]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument126]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument127]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument128]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument129]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument130]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument131]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument132]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\NC Drill\linkit-v4-1.1_6layers_smdonly.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument133]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.REP
+DItemRevisionGUID=
+
+[GeneratedDocument134]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Gerber\linkit-v4-1.1_6layers_smdonly.REP
+DItemRevisionGUID=
+
+[GeneratedDocument135]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Report Board Stack\linkit-v4-1.1_6layers_smdonly.xls
+DItemRevisionGUID=
+
+[GeneratedDocument136]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Report Board Stack\linkit-v4-1.1_6layers_smdonly.xls
+DItemRevisionGUID=
+
+[GeneratedDocument137]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Protel2Netlist\linkit-v4-hw.NET
+DItemRevisionGUID=
+
+[GeneratedDocument138]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Protel2Netlist\linkit-v4-hw.NET
+DItemRevisionGUID=
+
+[GeneratedDocument139]
+DocumentPath=Project Outputs for linkit-v4-hw\linkit-v4-hw.nsx
+DItemRevisionGUID=
+
+[GeneratedDocument140]
+DocumentPath=Simulation\linkit-v4-hw.sdf
+DItemRevisionGUID=
+
+[GeneratedDocument141]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\BOM\linkit-v4-hw.xlsx
+DItemRevisionGUID=
+
+[GeneratedDocument142]
+DocumentPath=Project Outputs for linkit-v4-hw\Pick Place\Pick Place for linkit-v4-0.3_6layers_kimonly.txt
+DItemRevisionGUID=
+
+[GeneratedDocument143]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-hw-SMD).txt
+DItemRevisionGUID=
+
+[GeneratedDocument144]
+DocumentPath=..\..\..\..\..\..\Altium\AD25\Projects\Arribada\linkit-v4-hw\Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-smd-no-charger).txt
+DItemRevisionGUID=
+
+[GeneratedDocument145]
+DocumentPath=Project Outputs for linkit-v4-hw\smd-variant\linkit-v4-smd-v1.1\Pick Place\Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-smd-no-charger).txt
+DItemRevisionGUID=
+
+[GeneratedDocument146]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz43CF.xls
+DItemRevisionGUID=
+
+[GeneratedDocument147]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz72EB.xls
+DItemRevisionGUID=
+
+[GeneratedDocument148]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz465C.xls
+DItemRevisionGUID=
+
+[GeneratedDocument149]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz507F.xls
+DItemRevisionGUID=
+
+[GeneratedDocument150]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\Qjz863E.xls
+DItemRevisionGUID=
+
+[GeneratedDocument151]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzACC0.xls
+DItemRevisionGUID=
+
+[GeneratedDocument152]
+DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzBFDF.xls
+DItemRevisionGUID=
+
+[GeneratedDocument153]
 DocumentPath=..\..\..\..\..\AppData\Local\Temp\QjzE6AF.xls
 DItemRevisionGUID=
 
@@ -1019,13 +1179,6 @@ TerminationMaxC7=0
 TerminationPrefC7=0
 TerminationVCC7=5
 
-[Generic_SimulationProfiles]
-ActiveProfile=YWCWOFYL
-ProfileId0=YWCWOFYL
-ProfileName0=Mixed Sim Configuration
-OutputType0=AdvSimNetlist
-ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0=|SP_Impedance0_UserValue=|SP_Impedance0=50|SP_Port1=|SP_Impedance1_UserValue=|SP_Impedance1=50|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=1
-
 [Generic_SmartPDF]
 AutoOpenFile=-1
 AutoOpenOutJob=-1
@@ -1078,6 +1231,13 @@ StimLevel=0
 StimStartTime=1E-8
 StimStopTime=6E-8
 StimPeriodTime=1E-7
+
+[Generic_SimulationProfiles]
+ActiveProfile=YWCWOFYL
+ProfileId0=YWCWOFYL
+ProfileName0=Mixed Sim Configuration
+OutputType0=AdvSimNetlist
+ConfigParameters0=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source=|TF_Reference=0|PZ_Enabled=False|PZ_Node1=|PZ_Node2=0|PZ_Node3=|PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource=|DC_PrimaryStart=|DC_PrimaryStop=|DC_PrimaryStep=|DC_EnableSecondary=False|DC_SecondarySource=|DC_SecondaryStart=|DC_SecondaryStop=|DC_SecondaryStep=|Noise_Enabled=False|Noise_Source=|Noise_Output=|Noise_Reference=0|Noise_Start_UserValue=|Noise_Start=1K|Noise_Stop_UserValue=|Noise_Stop=1G|Noise_TestPoints_UserValue=|Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue=|AC_StartFrequency=1K|AC_StopFrequency_UserValue=|AC_StopFrequency=1G|AC_TestPoints_UserValue=|AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0=|SP_Impedance0_UserValue=|SP_Impedance0=50|SP_Port1=|SP_Impedance1_UserValue=|SP_Impedance1=50|TRAN_StartTime_UserValue=|TRAN_StartTime=0|TRAN_StopTime_UserValue=|TRAN_StopTime=5u|TRAN_StepTime_UserValue=|TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue=|TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue=|TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue=|TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue=|TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue=|TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue=|TempSweep_Start=-10|TempSweep_Stop_UserValue=|TempSweep_Stop=60|TempSweep_Step_UserValue=|TempSweep_Step=10|ParamSweep_Parameter1=|ParamSweep_Type1=LIN|ParamSweep_Start1=|ParamSweep_Stop1=|ParamSweep_Step1=|ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2=|ParamSweep_Type2=LIN|ParamSweep_Start2=|ParamSweep_Stop2=|ParamSweep_Step2=|ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue=|Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue=|Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue=|Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue=|Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue=|Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue=|Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue=|OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue=|OPTION_DVCC=5|OPTION_DVDD_UserValue=|OPTION_DVDD=15|SheetsToNetlist=0
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -1189,16 +1349,6 @@ OutputName21=Mixed Sim Netlist
 OutputDocumentPath21=
 OutputVariantName21=
 OutputDefault21=0
-OutputType22=SIMetrixNetlist
-OutputName22=SIMetrix
-OutputDocumentPath22=
-OutputVariantName22=
-OutputDefault22=0
-OutputType23=SIMPLISNetlist
-OutputName23=SIMPLIS
-OutputDocumentPath23=
-OutputVariantName23=
-OutputDefault23=0
 
 [OutputGroup2]
 Name=Simulator Outputs
@@ -1213,17 +1363,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource= |DC_PrimaryStart= |DC_PrimaryStop= |DC_PrimaryStep= |DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0= |SP_Impedance0_UserValue= |SP_Impedance0=50|SP_Port1= |SP_Impedance1_UserValue= |SP_Impedance1=50|TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=5u|TRAN_StepTime_UserValue= |TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1= |ParamSweep_Stop1= |ParamSweep_Step1= |ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|SheetsToNetlist=1|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=YWCWOFYL
-OutputType2=SIMetrixSimulation
-OutputName2=SIMetrix
-OutputDocumentPath2=
-OutputVariantName2=
-OutputDefault2=0
-OutputType3=SIMPLISSimulation
-OutputName3=SIMPLIS
-OutputDocumentPath3=
-OutputVariantName3=
-OutputDefault3=0
+Configuration1_Item2=OP_Analysis=True|TRAN_Analysis=True|DC_Analysis=True|AC_Analysis=True|TF_Analysis=False|PZ_Analysis=False|Noise_Analysis=False|SP_Analysis=False|TRAN_FourierAnalysis=False|TRAN_StressAnalysis=False|TempSweep_Analysis=False|ParamSweep_Analysis=False|MonteCarlo_Analysis=False|TF_Enabled=False|TF_Source= |TF_Reference=0|PZ_Enabled=False|PZ_Node1= |PZ_Node2=0|PZ_Node3= |PZ_Node4=0|PZ_AnalType=PZ|PZ_TfType=VOL|AnalysesDataSavedIndex=4|DC_ShowMeasTableChart=False|DC_PrimarySource= |DC_PrimaryStart= |DC_PrimaryStop= |DC_PrimaryStep= |DC_EnableSecondary=False|DC_SecondarySource= |DC_SecondaryStart= |DC_SecondaryStop= |DC_SecondaryStep= |Noise_Enabled=False|Noise_Source= |Noise_Output= |Noise_Reference=0|Noise_Start_UserValue= |Noise_Start=1K|Noise_Stop_UserValue= |Noise_Stop=1G|Noise_TestPoints_UserValue= |Noise_TestPoints=10|Noise_PointsPerSummary=0|Noise_SweepType=DEC|SP_Enabled=False|AC_StartFrequency_UserValue= |AC_StartFrequency=1K|AC_StopFrequency_UserValue= |AC_StopFrequency=1G|AC_TestPoints_UserValue= |AC_TestPoints=10|AC_SweepType=DEC|AC_ShowMeasTableChart=False|SP_Port0= |SP_Impedance0_UserValue= |SP_Impedance0=50|SP_Port1= |SP_Impedance1_UserValue= |SP_Impedance1=50|TRAN_StartTime_UserValue= |TRAN_StartTime=0|TRAN_StopTime_UserValue= |TRAN_StopTime=5u|TRAN_StepTime_UserValue= |TRAN_StepTime=0.1u|TRAN_MaxStepTime_UserValue= |TRAN_MaxStepTime=0.1u|TRAN_AlwaysSetDefaults=False|TRAN_DefaultCycles_UserValue= |TRAN_DefaultCycles=5|TRAN_DefaultPointsPerCycle_UserValue= |TRAN_DefaultPointsPerCycle=25|TRAN_UseInitialConditions=False|TRAN_FourierEnabled=False|TRAN_FourierFundFreq_UserValue= |TRAN_FourierFundFreq=1Meg|TRAN_FourierNumHarmonics_UserValue= |TRAN_FourierNumHarmonics=10|TRAN_StressEnabled=False|TRAN_ShowMeasTableChart=False|TempSweep_Start_UserValue= |TempSweep_Start=-10|TempSweep_Stop_UserValue= |TempSweep_Stop=60|TempSweep_Step_UserValue= |TempSweep_Step=10|ParamSweep_Parameter1= |ParamSweep_Type1=LIN|ParamSweep_Start1= |ParamSweep_Stop1= |ParamSweep_Step1= |ParamSweep_SweepType1=False|ParamSweep_SecondaryEnabled=False|ParamSweep_Parameter2= |ParamSweep_Type2=LIN|ParamSweep_Start2= |ParamSweep_Stop2= |ParamSweep_Step2= |ParamSweep_SweepType2=False|MonteCarlo_NumberOfRuns=10|MonteCarlo_DistributionType=GAUSS|MonteCarlo_Seed=-1|MonteCarlo_ResistorTolerance=10%|MonteCarlo_ResistorTolerance_UserValue=10%|MonteCarlo_CapacitorTolerance=10%|MonteCarlo_CapacitorTolerance_UserValue=10%|MonteCarlo_InductorTolerance=10%|MonteCarlo_InductorTolerance_UserValue=10%|MonteCarlo_TransistorTolerance=10%|MonteCarlo_TransistorTolerance_UserValue=10%|MonteCarlo_DCSourceTolerance=10%|MonteCarlo_DCSourceTolerance_UserValue=10%|MonteCarlo_DigitalTpTolerance=10%|MonteCarlo_DigitalTpTolerance_UserValue=10%|Sensitivity_Analysis=False|Sensitivity_GroupDeviationsEnabled=False|Sensitivity_GroupResistorEnabled=True|Sensitivity_GroupResistorDeviation_UserValue= |Sensitivity_GroupResistorDeviation=1m|Sensitivity_GroupCapacitorEnabled=False|Sensitivity_GroupCapacitorDeviation_UserValue= |Sensitivity_GroupCapacitorDeviation=1m|Sensitivity_GroupInductorEnabled=False|Sensitivity_GroupInductorDeviation_UserValue= |Sensitivity_GroupInductorDeviation=1m|Sensitivity_GroupTransistorEnabled=False|Sensitivity_GroupTransistorDeviation_UserValue= |Sensitivity_GroupTransistorDeviation=1m|Sensitivity_GroupDcSourceEnabled=False|Sensitivity_GroupDcSourceDeviation_UserValue= |Sensitivity_GroupDcSourceDeviation=1m|Sensitivity_GroupGlobalParameterEnabled=False|Sensitivity_GroupGlobalParameterDeviation_UserValue= |Sensitivity_GroupGlobalParameterDeviation=1m|Sensitivity_CustomDeviationsEnabled=True|OldCfgLoaded=True|SimViewSetup=ShowActiveSignalsProbes|OPTION_Method=Trapezoidal|OPTION_SpiceRefNode_UserValue= |OPTION_SpiceRefNode=GND|OPTION_DVCC_UserValue= |OPTION_DVCC=5|OPTION_DVDD_UserValue= |OPTION_DVDD=15|SheetsToNetlist=0|Record=AdvSimNetlistView|SimulationName=Mixed Sim Configuration|ProfileId=YWCWOFYL
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -1483,11 +1623,6 @@ OutputName10=Report Single Pin Nets
 OutputDocumentPath10=
 OutputVariantName10=[No Variations]
 OutputDefault10=0
-OutputType11=BOM_ReportManufacturing
-OutputName11=Manufacturing Data
-OutputDocumentPath11=
-OutputVariantName11=[No Variations]
-OutputDefault11=0
 
 [OutputGroup7]
 Name=Other Outputs
@@ -1779,26 +1914,6 @@ Type148=1
 Type149=1
 Type150=1
 Type151=1
-Type152=1
-Type153=1
-Type154=1
-Type155=1
-Type156=1
-Type157=1
-Type158=1
-Type159=1
-Type160=1
-Type161=1
-Type162=1
-Type163=1
-Type164=1
-Type165=1
-Type166=1
-Type167=1
-Type168=1
-Type169=1
-Type170=1
-Type171=1
 
 [Difference Levels]
 Type1=1
@@ -1883,19 +1998,6 @@ Type79=1
 Type80=1
 Type81=1
 Type82=1
-Type83=1
-Type84=1
-Type85=1
-Type86=1
-Type87=1
-Type88=1
-Type89=1
-Type90=1
-Type91=1
-Type92=1
-Type93=1
-Type94=1
-Type95=1
 
 [Electrical Rules Check]
 Type1=0
@@ -2059,10 +2161,6 @@ Type158=0
 Type159=0
 Type160=0
 Type161=0
-Type162=1
-Type163=1
-Type164=1
-Type165=2
 
 [ERC Connection Matrix]
 L1=NNNNNNNNNNNWNNNWW

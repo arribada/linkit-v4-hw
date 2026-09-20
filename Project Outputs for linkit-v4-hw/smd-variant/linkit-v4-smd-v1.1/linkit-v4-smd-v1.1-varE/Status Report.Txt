@@ -1,0 +1,10 @@
+Output: Generates pick and place files
+Type  : Pick Place
+From  : Variant [linkit-v4-smd-no-charger] of PCB Document [linkit-v4-1.1_6layers_smdonly.PcbDoc]
+   Generated File[Pick Place for linkit-v4-1.1_6layers_smdonly(linkit-v4-smd-no-charger).txt]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 15:59:05 On 14/09/2026
