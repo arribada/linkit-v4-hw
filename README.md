@@ -6,28 +6,34 @@ Collaboration with
 
 ![N|Solid](https://www.cls-telemetry.com/wp-content/uploads/2021/06/logo-cls.png)
 
-# Altium project for Linkit-v4 product
+# Altium project for Linkit-v4 SMD (v4.2)
 
 Linkit V4 is the fourth generation of the Linkit tracker CORE board, developed in collaboration with CLS (Collecte Localisation Satellites). This revision transitions from the discontinued ARTIC R3 transceiver to next-generation satellite communication modules, ensuring long-term availability for Argos/Kineis satellite networks.
 
-## Hardware Variants
+## Hardware Variant
 
-This project contains **two hardware variants** maintained in separate branches:
+This repository contains the **linkit-v4-smd** board only, current revision **v4.2**.
 
-### linkit-v4-kim (Branch: `linkit-v4-kim`)
-Based on the **KIM2 module** from CLS/Kineis for satellite uplink communication.
-- Uses KIM2 satellite modem module
-- Certified for Kineis satellite network
-- See KIM2 Integration Manual (contact CLS)
-
-### linkit-v4-smd (Branch: `linkit-v4-smd`)
-Based on the **Argos-SMD module** - an open-source alternative.
-- Compatible with Arribada's Argos-SMD hardware: https://github.com/arribada/argos-smd-hw
+It is based on the **Argos-SMD module**, an open-source alternative:
+- Compatible with Arribada's Argos-SMD hardware: [argos-smd-hw](https://github.com/arribada/argos-smd-hw)
 - Provides flexibility for custom satellite communication implementations
 - Additional power management circuitry for SMD module
-- Check [argos-smd-hw repository](github.com/arribada/argos-smd-hw)
 
-The master branch contains a board with both footprints on the same layout, but it is not up to date and may be missing recent changes (deprecated branch).
+### Other variants
+- **linkit-v4-kim (v4.0)**, based on the KIM2 module from CLS/Kineis, now lives in its own repository: [arribada/linkit-v4-kim-hw](https://github.com/arribada/linkit-v4-kim-hw).
+- The former dual-footprint board (KIM2 + SMD on the same layout) is deprecated. It is kept for reference under the git tag `archive/master-dual`.
+
+## Revisions
+
+| Version | Git tag | PCB | Outputs |
+|---------|---------|-----|---------|
+| **v4.2** (current) | `v4.2` | `pcb/linkit-v4-1.1_6layers_smdonly.PcbDoc` | `Project Outputs for linkit-v4-hw/smd-variant/linkit-v4-smd-v1.1/` (production variants B to E) |
+| SMD v01A (first SMD batch) | `v0.1A-smd` | `pcb/linkit-v4-0.3_6layers_smdonly.PcbDoc` | `Project Outputs for linkit-v4-hw/smd-variant/linkit-v4-smd-v01A/` |
+
+## Opening the project
+
+- Open `linkit-v4-hw.PrjPcb` with Altium Designer.
+- Some device sheets are referenced from [arribada/hardware-lib](https://github.com/arribada/hardware-lib) through the relative path `..\hardware-lib\`. Clone `hardware-lib` next to this repository. A copy of these sheets is also kept in `DeviceSheets/`.
 
 ## Features
 
@@ -46,12 +52,12 @@ The master branch contains a board with both footprints on the same layout, but 
   - Solar panel input (3-18V via BQ25176M MPPT-compatible input)
 - **Voltage Regulation**: 
   - TPS63901 Buck/Boost (configurable 1.8V/3.3V for main system)
-  - TPS612997 Buck/Boost (3.6V for satellite module - SMD variant)
+  - TPS612997 Buck/Boost (3.6V for the Argos-SMD satellite module)
   - TPS22960 dual load switches for power domain control
 - **Ultra-low power design**: Sub-microamp quiescent current in sleep modes
 
 ### Connectivity & Interfaces
-- **Satellite Communication**: KIM2 or Argos-SMD module (variant-dependent)
+- **Satellite Communication**: Argos-SMD module
 - **GNSS**: Integrated u-blox M10Q receiver
 - **External I/O**:
   - 8-pin expansion connector (1.25mm pitch)
