@@ -141,6 +141,10 @@ These earlier designs are no longer actively maintained but are provided for ref
 
 ⚠️ The **Issues** section of this GitHub repository lists all fixes that need to be applied for the next batch, or by anyone who wants to design or reuse parts of this project.
 
+## TODO
+
+- Delete the legacy branches `smd-only` and `kim-only` once both repositories have been checked. Their content is already kept elsewhere: `smd-only` is in the history of `master` (SMD v4.2), and `kim-only` is the base of [arribada/linkit-v4-kim-hw](https://github.com/arribada/linkit-v4-kim-hw) (KIM v4.0) and is tagged `archive/kim-only`.
+
 ## License
 
 This project contains hardware design files only.
